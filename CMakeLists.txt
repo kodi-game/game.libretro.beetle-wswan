@@ -1,10 +1,7 @@
+cmake_minimum_required(VERSION 3.1)
 project(game.libretro.beetle-wswan)
 
-cmake_minimum_required(VERSION 2.6)
-
 list(APPEND CMAKE_MODULE_PATH ${PROJECT_SOURCE_DIR})
-
-enable_language(CXX)
 
 find_package(Kodi REQUIRED)
 
@@ -40,9 +37,7 @@ externalproject_add(beetle-wswan
                     BUILD_IN_SOURCE 1)
 
 set(BEETLEWSWAN_CUSTOM_BINARY ${PROJECT_BINARY_DIR}/beetle-wswan/src/beetle-wswan/mednafen_wswan_libretro${CMAKE_SHARED_LIBRARY_SUFFIX}
-                              game.libretro.beetle-wswan${CMAKE_SHARED_LIBRARY_SUFFIX} beetle-wswan)
+                              ${PROJECT_NAME}${CMAKE_SHARED_LIBRARY_SUFFIX})
 
-build_addon(game.libretro.beetle-wswan BEETLEWSWAN DEPLIBS)
-add_dependencies(game.libretro.beetle-wswan beetle-wswan)
-
-include(CPack)
+build_addon(${PROJECT_NAME} BEETLEWSWAN DEPLIBS)
+add_dependencies(${PROJECT_NAME} beetle-wswan)

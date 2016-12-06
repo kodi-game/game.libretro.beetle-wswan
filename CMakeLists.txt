@@ -4,40 +4,9 @@ project(game.libretro.beetle-wswan)
 list(APPEND CMAKE_MODULE_PATH ${PROJECT_SOURCE_DIR})
 
 find_package(Kodi REQUIRED)
+find_package(libretro-beetle-wswan REQUIRED)
 
-include(ExternalProject)
+set(BEETLE-WSWAN_CUSTOM_BINARY ${BEETLE-WSWAN_LIB}
+    ${PROJECT_NAME}${CMAKE_SHARED_LIBRARY_SUFFIX})
 
-if(CMAKE_BUILD_TYPE MATCHES Debug)
-  set(LIBRETRO_DEBUG DEBUG=1)
-endif()
-
-if("${CORE_SYSTEM_NAME}" STREQUAL "windows")
-  set(BUILD_COMMAND mingw32-make platform=win ${LIBRETRO_DEBUG})
-elseif("${CORE_SYSTEM_NAME}" STREQUAL "linux")
-  set(BUILD_COMMAND make ${LIBRETRO_DEBUG})
-elseif("${CORE_SYSTEM_NAME}" STREQUAL "darwin")
-  set(BUILD_COMMAND make platform=osx ${LIBRETRO_DEBUG})
-elseif("${CORE_SYSTEM_NAME}" STREQUAL "ios")
-  # TODO
-elseif("${CORE_SYSTEM_NAME}" STREQUAL "android")
-  # TODO
-elseif("${CORE_SYSTEM_NAME}" STREQUAL "rbpi")
-  # TODO
-elseif("${CORE_SYSTEM_NAME}" STREQUAL "freebsd")
-# TODO
-endif()
-
-externalproject_add(beetle-wswan
-                    GIT_REPOSITORY https://github.com/libretro/beetle-wswan-libretro
-                    GIT_TAG 9187162
-                    PREFIX beetle-wswan
-                    CONFIGURE_COMMAND ""
-                    INSTALL_COMMAND ""
-                    BUILD_COMMAND ${BUILD_COMMAND}
-                    BUILD_IN_SOURCE 1)
-
-set(BEETLEWSWAN_CUSTOM_BINARY ${PROJECT_BINARY_DIR}/beetle-wswan/src/beetle-wswan/mednafen_wswan_libretro${CMAKE_SHARED_LIBRARY_SUFFIX}
-                              ${PROJECT_NAME}${CMAKE_SHARED_LIBRARY_SUFFIX})
-
-build_addon(${PROJECT_NAME} BEETLEWSWAN DEPLIBS)
-add_dependencies(${PROJECT_NAME} beetle-wswan)
+build_addon(${PROJECT_NAME} BEETLE-WSWAN "")

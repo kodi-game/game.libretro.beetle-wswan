@@ -16,7 +16,7 @@
 		<supports_mouse>false</supports_mouse>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en">WonderSwan/Color (Mednafen Cygne) v0.9.35.1 20f9a62</summary>
+		<summary lang="en">WonderSwan/Color (Mednafen Cygne) v0.9.35.1</summary>
 		<description>Source: https://github.com/libretro/beetle-wswan-libretro
 
 Supported files: .ws, .wsc</description>

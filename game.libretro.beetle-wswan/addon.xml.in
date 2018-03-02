@@ -15,8 +15,8 @@
 		<supports_standalone>false</supports_standalone>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en">Bandai - WonderSwan/Color (Beetle Cygne) v0.9.35.1</summary>
-		<description>Standalone port of Mednafen WonderSwan to libretro, itself a fork of Cygne.
+		<summary lang="en_GB">Bandai - WonderSwan/Color (Beetle Cygne) v0.9.35.1</summary>
+		<description lang="en_GB">Standalone port of Mednafen WonderSwan to libretro, itself a fork of Cygne.
 
 Supported files: .ws, .wsc</description>
 		<license>GPLv2</license>

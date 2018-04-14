@@ -10,7 +10,7 @@
 	<extension point="kodi.gameclient"
 			library_@PLATFORM@="@LIBRARY_FILENAME@">
 		<platforms>WSW</platforms>
-		<extensions>ws|wsc</extensions>
+		<extensions>ws|wsc|pc2</extensions>
 		<supports_vfs>true</supports_vfs>
 		<supports_standalone>false</supports_standalone>
 	</extension>
@@ -18,7 +18,7 @@
 		<summary lang="en_GB">Bandai - WonderSwan/Color (Beetle Cygne) v0.9.35.1</summary>
 		<description lang="en_GB">Standalone port of Mednafen WonderSwan to libretro, itself a fork of Cygne.
 
-Supported files: .ws, .wsc</description>
+Supported files: .ws, .wsc, .pc2</description>
 		<license>GPLv2</license>
 		<platform>@PLATFORM@</platform>
 		<assets>

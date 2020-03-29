@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.beetle-wswan"
 		name="Bandai - WonderSwan/Color (Beetle Cygne)"
-		version="0.9.35.7"
+		version="0.9.35.8"
 		provider-name="Libretro">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>

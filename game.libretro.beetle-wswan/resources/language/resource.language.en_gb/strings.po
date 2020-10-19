@@ -21,13 +21,17 @@ msgid "Settings"
 msgstr ""
 
 msgctxt "#30001"
-msgid "Color Depth"
+msgid "Color Depth (Restart)"
 msgstr ""
 
 msgctxt "#30002"
-msgid "Rotate button mappings"
+msgid "Rotate Display"
 msgstr ""
 
 msgctxt "#30003"
+msgid "Rotate Button Mappings"
+msgstr ""
+
+msgctxt "#30004"
 msgid "Sound Output Sample Rate"
 msgstr ""

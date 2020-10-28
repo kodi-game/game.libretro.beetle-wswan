@@ -21,17 +21,29 @@ msgid "Settings"
 msgstr ""
 
 msgctxt "#30001"
-msgid "Color Depth (Restart)"
+msgid "Frameskip"
 msgstr ""
 
 msgctxt "#30002"
-msgid "Rotate Display"
+msgid "Frameskip Threshold (%)"
 msgstr ""
 
 msgctxt "#30003"
-msgid "Rotate Button Mappings"
+msgid "Color Depth (Restart)"
 msgstr ""
 
 msgctxt "#30004"
+msgid "WS Colorization"
+msgstr ""
+
+msgctxt "#30005"
+msgid "Rotate Display"
+msgstr ""
+
+msgctxt "#30006"
+msgid "Rotate Button Mappings"
+msgstr ""
+
+msgctxt "#30007"
 msgid "Sound Output Sample Rate"
 msgstr ""

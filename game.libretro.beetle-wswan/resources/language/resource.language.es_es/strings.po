@@ -22,9 +22,7 @@ msgid "Bandai - WonderSwan/Color (Beetle Cygne) v0.9.35.1"
 msgstr ""
 
 msgctxt "Addon Description"
-msgid "Standalone port of Mednafen WonderSwan to libretro, itself a fork of Cygne.
-
-Supported files: .ws, .wsc, .pc2"
+msgid "Standalone port of Mednafen WonderSwan to libretro, itself a fork of Cygne.[CR][CR]Supported files: .ws, .wsc, .pc2"
 msgstr ""
 
 msgctxt "#30000"

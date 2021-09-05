@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: game.libretro.beetle-wswan\n"
-"Report-Msgid-Bugs-To: alanwww1@xbmc.org\n"
+"Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2019-02-05 20:27i\n"
 "PO-Revision-Date: 2021-08-24 02:45+0000\n"
 "Last-Translator: Christian Gade <gade@kodi.tv>\n"
@@ -30,7 +30,7 @@ msgid "Settings"
 msgstr "Indstillinger"
 
 msgctxt "#30001"
-msgid "Rotate Display"
+msgid "Display Rotation"
 msgstr ""
 
 msgctxt "#30002"

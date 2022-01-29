@@ -38,21 +38,41 @@ msgid "Rotate Button Mappings"
 msgstr "旋转按钮映射"
 
 msgctxt "#30003"
-msgid "WS Colorization"
-msgstr "WS 着色"
+msgid "Color Palette"
+msgstr ""
 
 msgctxt "#30004"
-msgid "Frameskip"
-msgstr "帧跳过"
+msgid "Color Depth (Restart Required)"
+msgstr ""
 
 msgctxt "#30005"
-msgid "Frameskip Threshold (%)"
-msgstr "帧跳过阈值（%）"
+msgid "Frameskip"
+msgstr ""
 
 msgctxt "#30006"
-msgid "Sound Output Sample Rate"
-msgstr "声音输出采样率"
+msgid "Frameskip Threshold (%)"
+msgstr ""
 
 msgctxt "#30007"
-msgid "Color Depth (Restart)"
-msgstr "色深（重新启动）"
+msgid "Sound Output Sample Rate"
+msgstr ""
+
+#~ msgctxt "#30003"
+#~ msgid "WS Colorization"
+#~ msgstr "WS 着色"
+
+#~ msgctxt "#30004"
+#~ msgid "Frameskip"
+#~ msgstr "帧跳过"
+
+#~ msgctxt "#30005"
+#~ msgid "Frameskip Threshold (%)"
+#~ msgstr "帧跳过阈值（%）"
+
+#~ msgctxt "#30006"
+#~ msgid "Sound Output Sample Rate"
+#~ msgstr "声音输出采样率"
+
+#~ msgctxt "#30007"
+#~ msgid "Color Depth (Restart)"
+#~ msgstr "色深（重新启动）"

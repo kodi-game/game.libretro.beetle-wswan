@@ -38,21 +38,41 @@ msgid "Rotate Button Mappings"
 msgstr "Roter mapping for knapper"
 
 msgctxt "#30003"
-msgid "WS Colorization"
-msgstr "WS farvelægning"
+msgid "Color Palette"
+msgstr ""
 
 msgctxt "#30004"
-msgid "Frameskip"
-msgstr "Spring frame over"
+msgid "Color Depth (Restart Required)"
+msgstr ""
 
 msgctxt "#30005"
-msgid "Frameskip Threshold (%)"
-msgstr "Tærskel når der springes en frame over (%)"
+msgid "Frameskip"
+msgstr ""
 
 msgctxt "#30006"
-msgid "Sound Output Sample Rate"
-msgstr "Samplefrekvens for lydudgang"
+msgid "Frameskip Threshold (%)"
+msgstr ""
 
 msgctxt "#30007"
-msgid "Color Depth (Restart)"
-msgstr "Farvedybde (genstart)"
+msgid "Sound Output Sample Rate"
+msgstr ""
+
+#~ msgctxt "#30003"
+#~ msgid "WS Colorization"
+#~ msgstr "WS farvelægning"
+
+#~ msgctxt "#30004"
+#~ msgid "Frameskip"
+#~ msgstr "Spring frame over"
+
+#~ msgctxt "#30005"
+#~ msgid "Frameskip Threshold (%)"
+#~ msgstr "Tærskel når der springes en frame over (%)"
+
+#~ msgctxt "#30006"
+#~ msgid "Sound Output Sample Rate"
+#~ msgstr "Samplefrekvens for lydudgang"
+
+#~ msgctxt "#30007"
+#~ msgid "Color Depth (Restart)"
+#~ msgstr "Farvedybde (genstart)"

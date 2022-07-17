@@ -7,6 +7,8 @@
 		<setting label="30004" type="select" id="wswan_gfx_colors" values="16bit|24bit" default="16bit"/>
 		<setting label="30005" type="select" id="wswan_frameskip" values="disabled|auto|manual" default="disabled"/>
 		<setting label="30006" type="select" id="wswan_frameskip_threshold" values="33|15|18|21|24|27|30|36|39|42|45|48|51|54|57|60" default="33"/>
-		<setting label="30007" type="select" id="wswan_sound_sample_rate" values="44100|11025|22050|48000|96000|192000|384000" default="44100"/>
+		<setting label="30007" type="select" id="wswan_60hz_mode" values="enabled|disabled" default="enabled"/>
+		<setting label="30008" type="select" id="wswan_sound_sample_rate" values="44100|11025|22050|48000" default="44100"/>
+		<setting label="30009" type="select" id="wswan_sound_low_pass" values="disabled|enabled" default="disabled"/>
 	</category>
 </settings>

@@ -54,5 +54,13 @@ msgid "Frameskip Threshold (%)"
 msgstr "Umbral de salto de cuadros (%)"
 
 msgctxt "#30007"
+msgid "60Hz Mode"
+msgstr ""
+
+msgctxt "#30008"
 msgid "Sound Output Sample Rate"
+msgstr ""
+
+msgctxt "#30009"
+msgid "Audio Filter"
 msgstr ""

@@ -1,1 +1,1 @@
-beetle-wswan https://github.com/libretro/beetle-wswan-libretro/archive/16d96f64a32cbe1fa89c40b142298dbd007f2f4d.tar.gz
+beetle-wswan https://github.com/libretro/beetle-wswan-libretro/archive/d9b4faf720c8f7a6795d8a12e4bd808fe8d3e602.tar.gz

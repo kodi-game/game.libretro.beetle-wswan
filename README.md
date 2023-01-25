@@ -13,7 +13,7 @@ GPLv2
 
 ### Icon
 
-![Icon](game.libretro.beetle-wswan/resources/icon.png)
+![Bandai - WonderSwan/Color (Beetle Cygne) icon](game.libretro.beetle-wswan/resources/icon.png)
 
 ### Fanart
 
@@ -21,6 +21,6 @@ Help make me fanart!
 
 ### Screenshots
 
-![Screenshot](game.libretro.beetle-wswan/resources/screenshot-01.jpg)
-![Screenshot](game.libretro.beetle-wswan/resources/screenshot-02.jpg)
-![Screenshot](game.libretro.beetle-wswan/resources/screenshot-03.jpg)
+![Bandai - WonderSwan/Color (Beetle Cygne) screenshot](game.libretro.beetle-wswan/resources/screenshot-01.jpg)
+![Bandai - WonderSwan/Color (Beetle Cygne) screenshot](game.libretro.beetle-wswan/resources/screenshot-02.jpg)
+![Bandai - WonderSwan/Color (Beetle Cygne) screenshot](game.libretro.beetle-wswan/resources/screenshot-03.jpg)

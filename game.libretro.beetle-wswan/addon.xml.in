@@ -27,6 +27,7 @@
 		</assets>
 		<summary lang="en_GB">Bandai - WonderSwan/Color (Beetle Cygne) v0.9.35.1</summary>
 		<description lang="da_DK">Fritstående port af Mednafen WonderSwan til libretro, i sig selv en fork af Cygne.</description>
+		<description lang="de_DE">Eigenständige Portierung von Mednafen WonderSwan nach libretro, selbst ein Ableger von Cygne.</description>
 		<description lang="en_GB">Standalone port of Mednafen WonderSwan to libretro, itself a fork of Cygne.</description>
 		<description lang="es_ES">Adaptación independiente de Mednafen WonderSwan a libretro, que a su vez es una bifurcación de Cygne.</description>
 		<description lang="it_IT">Port autonomo di Mednafen WonderSwan su libretro, a sua volta un fork di Cygne.</description>

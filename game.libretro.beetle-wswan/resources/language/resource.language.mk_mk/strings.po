@@ -17,7 +17,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n==1 || n%10==1 ? 0 : 1;\n"
 
 msgctxt "Addon Summary"
-msgid "Bandai - WonderSwan/Color (Beetle Cygne) v0.9.35.1"
+msgid "Bandai - WonderSwan/Color (Beetle Cygne)"
 msgstr ""
 
 msgctxt "Addon Description"

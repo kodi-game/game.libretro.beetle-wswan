@@ -1,6 +1,3 @@
-[![Build Status](https://travis-ci.org/kodi-game/game.libretro.beetle-wswan.svg?branch=master)](https://travis-ci.org/kodi-game/game.libretro.beetle-wswan)
-[![Build Status](https://ci.appveyor.com/api/projects/status/github/kodi-game/game.libretro.beetle-wswan?svg=true)](https://ci.appveyor.com/project/kodi-game/game-libretro-beetle-wswan)
-
 # Bandai - WonderSwan/Color (Beetle Cygne)
 
 ### Description

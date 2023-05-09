@@ -25,6 +25,7 @@
 			<screenshot>resources/screenshot-02.jpg</screenshot>
 			<screenshot>resources/screenshot-03.jpg</screenshot>
 		</assets>
+		<summary lang="da_DK">Bandai - WonderSwan/Color (Beetle Cygne)</summary>
 		<summary lang="en_GB">Bandai - WonderSwan/Color (Beetle Cygne)</summary>
 		<summary lang="es_ES">Bandai - WonderSwan/Color (Beetle Cygne)</summary>
 		<description lang="da_DK">Fritstående port af Mednafen WonderSwan til libretro, i sig selv en fork af Cygne.</description>

@@ -28,6 +28,7 @@
 		<summary lang="da_DK">Bandai - WonderSwan/Color (Beetle Cygne)</summary>
 		<summary lang="en_GB">Bandai - WonderSwan/Color (Beetle Cygne)</summary>
 		<summary lang="es_ES">Bandai - WonderSwan/Color (Beetle Cygne)</summary>
+		<summary lang="it_IT">Bandai - WonderSwan/Colore (Beetle Cygne)</summary>
 		<summary lang="zh_CN">Bandai - WonderSwan/Color (Beetle Cygne)</summary>
 		<description lang="da_DK">Fritstående port af Mednafen WonderSwan til libretro, i sig selv en fork af Cygne.</description>
 		<description lang="de_DE">Eigenständige Portierung von Mednafen WonderSwan nach libretro, selbst ein Ableger von Cygne.</description>

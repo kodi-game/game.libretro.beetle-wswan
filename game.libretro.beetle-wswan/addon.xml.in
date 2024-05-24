@@ -35,6 +35,7 @@
 		<description lang="en_GB">Standalone port of Mednafen WonderSwan to libretro, itself a fork of Cygne.</description>
 		<description lang="es_ES">Adaptación independiente de Mednafen WonderSwan a libretro, que a su vez es una bifurcación de Cygne.</description>
 		<description lang="it_IT">Port autonomo di Mednafen WonderSwan su libretro, a sua volta un fork di Cygne.</description>
+		<description lang="sl_SI">Samostojno pristanišče Mednafen WonderSwan v libretro, ki je sam razcep Cygne.</description>
 		<description lang="zh_CN">从 Mednafen WonderSwan 到 Librector 的独立移植，它本身就是 Cygne 的一个分支。</description>
 	</extension>
 </addon>

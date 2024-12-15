@@ -25,10 +25,6 @@ msgctxt "Addon Description"
 msgid "Standalone port of Mednafen WonderSwan to libretro, itself a fork of Cygne."
 msgstr "Samostojno pristanišče Mednafen WonderSwan v libretro, ki je sam razcep Cygne."
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "Nastavitve"
-
 msgctxt "#30001"
 msgid "Display Rotation"
 msgstr "Vrtenje zaslona"
@@ -64,3 +60,7 @@ msgstr "Hitrost vzorčenja zvoka"
 msgctxt "#30009"
 msgid "Audio Filter"
 msgstr ""
+
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "Nastavitve"

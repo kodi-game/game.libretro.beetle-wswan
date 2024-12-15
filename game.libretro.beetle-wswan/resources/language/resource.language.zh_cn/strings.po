@@ -25,10 +25,6 @@ msgctxt "Addon Description"
 msgid "Standalone port of Mednafen WonderSwan to libretro, itself a fork of Cygne."
 msgstr "从 Mednafen WonderSwan 到 Librector 的独立移植，它本身就是 Cygne 的一个分支。"
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "设置"
-
 msgctxt "#30001"
 msgid "Display Rotation"
 msgstr "显示旋转"
@@ -64,6 +60,10 @@ msgstr "声音输出采样率"
 msgctxt "#30009"
 msgid "Audio Filter"
 msgstr "音频滤波器"
+
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "设置"
 
 #~ msgctxt "#30007"
 #~ msgid "Sound Output Sample Rate"

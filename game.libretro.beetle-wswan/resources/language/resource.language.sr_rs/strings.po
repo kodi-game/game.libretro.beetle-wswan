@@ -24,10 +24,6 @@ msgctxt "Addon Description"
 msgid "Standalone port of Mednafen WonderSwan to libretro, itself a fork of Cygne."
 msgstr ""
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr ""
-
 msgctxt "#30001"
 msgid "Display Rotation"
 msgstr ""

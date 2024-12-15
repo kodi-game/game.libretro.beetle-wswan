@@ -25,10 +25,6 @@ msgctxt "Addon Description"
 msgid "Standalone port of Mednafen WonderSwan to libretro, itself a fork of Cygne."
 msgstr "Fritstående port af Mednafen WonderSwan til libretro, i sig selv en fork af Cygne."
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "Indstillinger"
-
 msgctxt "#30001"
 msgid "Display Rotation"
 msgstr "Skærmrotation"
@@ -64,6 +60,10 @@ msgstr "Samplefrekvens for lydudgang"
 msgctxt "#30009"
 msgid "Audio Filter"
 msgstr "Lydfilter"
+
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "Indstillinger"
 
 #~ msgctxt "#30007"
 #~ msgid "Sound Output Sample Rate"

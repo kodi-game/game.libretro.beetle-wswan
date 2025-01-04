@@ -23,9 +23,9 @@ msgid "Bandai - WonderSwan/Color (Beetle Wonderswan)"
 msgstr "Bandai - WonderSwan/Colore (Beetle Cygne)"
 
 msgctxt "Addon Description"
-msgid ""
-"Standalone port of Mednafen WonderSwan to libretro, itself a fork of Cygne."
-msgstr ""
+msgid "Standalone port of Mednafen WonderSwan to libretro, itself a fork of Cygne."
+msgstr "[CR]Port autonomo di Mednafen WonderSwan su libretro, a sua volta un fork di [CR]Cygne."
+
 "Port autonomo di Mednafen WonderSwan su libretro, a sua volta un fork di "
 "Cygne."
 

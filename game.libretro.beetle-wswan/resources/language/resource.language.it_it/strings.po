@@ -18,7 +18,7 @@ msgstr ""
 "X-Generator: Weblate 5.9.2\n"
 
 msgctxt "Addon Summary"
-msgid "Bandai - WonderSwan/Color (Beetle Cygne)"
+msgid "Bandai - WonderSwan/Color (Beetle Wonderswan)"
 msgstr "Bandai - WonderSwan/Colore (Beetle Cygne)"
 
 msgctxt "Addon Description"

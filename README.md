@@ -1,4 +1,4 @@
-# Bandai - WonderSwan/Color (Beetle Cygne)
+# Bandai - WonderSwan/Color (Beetle Wonderswan)
 
 ### Description
 
@@ -10,7 +10,7 @@ GPLv2
 
 ### Icon
 
-![Bandai - WonderSwan/Color (Beetle Cygne) icon](game.libretro.beetle-wswan/resources/icon.png)
+![Bandai - WonderSwan/Color (Beetle Wonderswan) icon](game.libretro.beetle-wswan/resources/icon.png)
 
 ### Fanart
 
@@ -18,6 +18,6 @@ Help make me fanart!
 
 ### Screenshots
 
-![Bandai - WonderSwan/Color (Beetle Cygne) screenshot](game.libretro.beetle-wswan/resources/screenshot-01.jpg)
-![Bandai - WonderSwan/Color (Beetle Cygne) screenshot](game.libretro.beetle-wswan/resources/screenshot-02.jpg)
-![Bandai - WonderSwan/Color (Beetle Cygne) screenshot](game.libretro.beetle-wswan/resources/screenshot-03.jpg)
+![Bandai - WonderSwan/Color (Beetle Wonderswan) screenshot](game.libretro.beetle-wswan/resources/screenshot-01.jpg)
+![Bandai - WonderSwan/Color (Beetle Wonderswan) screenshot](game.libretro.beetle-wswan/resources/screenshot-02.jpg)
+![Bandai - WonderSwan/Color (Beetle Wonderswan) screenshot](game.libretro.beetle-wswan/resources/screenshot-03.jpg)

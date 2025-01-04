@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.beetle-wswan"
-		name="Bandai - WonderSwan/Color (Beetle Cygne)"
+		name="Bandai - WonderSwan/Color (Beetle Wonderswan)"
 		version="0.9.35.49"
 		provider-name="Dox, Mednafen Team">
 	<requires>
@@ -26,7 +26,7 @@
 			<screenshot>resources/screenshot-03.jpg</screenshot>
 		</assets>
 		<summary lang="da_DK">Bandai - WonderSwan/Color (Beetle Cygne)</summary>
-		<summary lang="en_GB">Bandai - WonderSwan/Color (Beetle Cygne)</summary>
+		<summary lang="en_GB">Bandai - WonderSwan/Color (Beetle Wonderswan)</summary>
 		<summary lang="es_ES">Bandai - WonderSwan/Color (Beetle Cygne)</summary>
 		<summary lang="it_IT">Bandai - WonderSwan/Colore (Beetle Cygne)</summary>
 		<summary lang="zh_CN">Bandai - WonderSwan/Color (Beetle Cygne)</summary>

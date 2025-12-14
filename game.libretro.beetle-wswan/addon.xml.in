@@ -30,6 +30,7 @@
 		<summary lang="es_ES">Bandai - WonderSwan/Color (Beetle Wonderswan)</summary>
 		<summary lang="ga">Bandai - WonderSwan/Color (Beetle Wonderswan)</summary>
 		<summary lang="it_IT">Bandai - WonderSwan/Colore (Beetle Wonderswan)</summary>
+		<summary lang="ru_RU">Bandai - WonderSwan/Color (Beetle Wonderswan)</summary>
 		<summary lang="sv_SE">Bandai - WonderSwan/Color (Beetle Wonderswan)</summary>
 		<summary lang="zh_CN">Bandai - WonderSwan/Color (Beetle Wonderswan)</summary>
 		<description lang="da_DK">Fritstående port af Mednafen WonderSwan til libretro, i sig selv en fork af Cygne.</description>
@@ -38,6 +39,7 @@
 		<description lang="es_ES">Adaptación independiente de Mednafen WonderSwan a libretro, que a su vez es una bifurcación de Cygne.</description>
 		<description lang="ga">Port neamhspleách de Mednafen WonderSwan go libretro, forc de Cygne é féin.</description>
 		<description lang="it_IT">Port autonomo di Mednafen WonderSwan su libretro, a sua volta un fork di Cygne.</description>
+		<description lang="ru_RU">Отдельный порт Mednafen WonderSwan на libretro, который является ответвлением Cygne.</description>
 		<description lang="sl_SI">Samostojno pristanišče Mednafen WonderSwan v libretro, ki je sam razcep Cygne.</description>
 		<description lang="sv_SE">Fristående portning av Mednafen WonderSwan till libretro, som i sin tur är en förgrening av Cygne.</description>
 		<description lang="zh_CN">从 Mednafen WonderSwan 到 Librector 的独立移植，它本身就是 Cygne 的一个分支。</description>

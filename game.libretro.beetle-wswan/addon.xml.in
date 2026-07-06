@@ -26,6 +26,7 @@
 			<screenshot>resources/screenshot-02.jpg</screenshot>
 			<screenshot>resources/screenshot-03.jpg</screenshot>
 		</assets>
+		<summary lang="cs_CZ">Bandai - WonderSwan/Color (Beetle Wonderswan)</summary>
 		<summary lang="da_DK">Bandai - WonderSwan/Color (Beetle Wonderswan)</summary>
 		<summary lang="en_GB">Bandai - WonderSwan/Color (Beetle Wonderswan)</summary>
 		<summary lang="es_ES">Bandai - WonderSwan/Color (Beetle Wonderswan)</summary>
@@ -34,6 +35,7 @@
 		<summary lang="ru_RU">Bandai - WonderSwan/Color (Beetle Wonderswan)</summary>
 		<summary lang="sv_SE">Bandai - WonderSwan/Color (Beetle Wonderswan)</summary>
 		<summary lang="zh_CN">Bandai - WonderSwan/Color (Beetle Wonderswan)</summary>
+		<description lang="cs_CZ">Samostatný port Mednafen WonderSwan do libretro, který je sám odvozen od Cygne.</description>
 		<description lang="da_DK">Fritstående port af Mednafen WonderSwan til libretro, i sig selv en fork af Cygne.</description>
 		<description lang="de_DE">Eigenständige Portierung von Mednafen WonderSwan nach libretro, selbst ein Ableger von Cygne.</description>
 		<description lang="en_GB">Standalone port of Mednafen WonderSwan to libretro, itself a fork of Cygne.</description>

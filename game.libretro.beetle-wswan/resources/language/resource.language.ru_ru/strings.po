@@ -61,6 +61,34 @@ msgctxt "#30009"
 msgid "Audio Filter"
 msgstr "Фильтр звука"
 
+msgctxt "#30010"
+msgid "Language (Restart Required)"
+msgstr ""
+
+msgctxt "#30011"
+msgid "Owner Name Source (Restart Required)"
+msgstr ""
+
+msgctxt "#30012"
+msgid "Owner Birth Year (Restart Required)"
+msgstr ""
+
+msgctxt "#30013"
+msgid "Owner Birth Month (Restart Required)"
+msgstr ""
+
+msgctxt "#30014"
+msgid "Owner Birth Day (Restart Required)"
+msgstr ""
+
+msgctxt "#30015"
+msgid "Owner Sex (Restart Required)"
+msgstr ""
+
+msgctxt "#30016"
+msgid "Owner Blood Type (Restart Required)"
+msgstr ""
+
 #~ msgctxt "#30000"
 #~ msgid "Settings"
 #~ msgstr "Настройки"

@@ -27,19 +27,19 @@ msgstr ""
 
 msgctxt "#30001"
 msgid "Display Rotation"
-msgstr ""
+msgstr "Περιστροφή Οθόνης"
 
 msgctxt "#30002"
 msgid "Rotate Button Mappings"
-msgstr ""
+msgstr "Περιστροφή Πλήκτρων"
 
 msgctxt "#30003"
 msgid "Color Palette"
-msgstr ""
+msgstr "Παλέτα Χρωμάτων"
 
 msgctxt "#30004"
 msgid "Color Depth (Restart Required)"
-msgstr ""
+msgstr "Βάθος Χρώματος (Απαιτείται Επανεκκίνηση)"
 
 msgctxt "#30005"
 msgid "Frameskip"
@@ -59,7 +59,7 @@ msgstr ""
 
 msgctxt "#30009"
 msgid "Audio Filter"
-msgstr ""
+msgstr "Φίλτρα Ήχου"
 
 msgctxt "#30010"
 msgid "Language (Restart Required)"
@@ -211,15 +211,15 @@ msgstr ""
 
 msgctxt "#30047"
 msgid "Manual"
-msgstr ""
+msgstr "Χειροκίνητο"
 
 msgctxt "#30048"
 msgid "Landscape"
-msgstr ""
+msgstr "Οριζόντιος Προσανατολισμός"
 
 msgctxt "#30049"
 msgid "Portrait"
-msgstr ""
+msgstr "Κατακόρυφος Προσανατολισμός"
 
 msgctxt "#30050"
 msgid "Choose the preferred button mapping. 'Auto' adjusts button mapping to match the current display rotation."
@@ -227,7 +227,7 @@ msgstr ""
 
 msgctxt "#30051"
 msgid "Auto"
-msgstr ""
+msgstr "Αυτόματο"
 
 msgctxt "#30052"
 msgid "Choose the colorization of WonderSwan (Mono) games. 'WS' palettes mimic the display of the original WonderSwan hardware."
@@ -235,7 +235,7 @@ msgstr ""
 
 msgctxt "#30053"
 msgid "Grayscale"
-msgstr ""
+msgstr "Γκρι απόχρωση"
 
 msgctxt "#30054"
 msgid "WS - WonderSwan"
@@ -347,11 +347,11 @@ msgstr ""
 
 msgctxt "#30081"
 msgid "Thousands (16-bit)"
-msgstr ""
+msgstr "Χιλιάδες (16-bit)"
 
 msgctxt "#30082"
 msgid "Millions (24-bit)"
-msgstr ""
+msgstr "Εκατομμύρια (24-bit)"
 
 msgctxt "#30083"
 msgid "Skip frames to avoid audio buffer under-run (crackling). Improves performance at the expense of visual smoothness. 'Auto' skips frames when advised by the frontend. 'Manual' utilizes the 'Frameskip Threshold (%)' setting."

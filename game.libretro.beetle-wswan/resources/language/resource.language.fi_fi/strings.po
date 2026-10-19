@@ -27,7 +27,7 @@ msgstr ""
 
 msgctxt "#30001"
 msgid "Display Rotation"
-msgstr "Ruudun kääntö"
+msgstr "Näytön kierto"
 
 msgctxt "#30002"
 msgid "Rotate Button Mappings"
@@ -35,23 +35,23 @@ msgstr "Käännön näppäinmääritykset"
 
 msgctxt "#30003"
 msgid "Color Palette"
-msgstr ""
+msgstr "Väripaletti"
 
 msgctxt "#30004"
 msgid "Color Depth (Restart Required)"
-msgstr "Värisyvyys (uudelleenkäynnistys)"
+msgstr "Värisyvyys (Uudelleenkäynnistys vaaditaan)"
 
 msgctxt "#30005"
 msgid "Frameskip"
-msgstr "Kuvaohitus"
+msgstr "Kuvanohitus"
 
 msgctxt "#30006"
 msgid "Frameskip Threshold (%)"
-msgstr "Kuvaohituskynnys (%)"
+msgstr "Kuvienohituksen arvo (%)"
 
 msgctxt "#30007"
 msgid "60Hz Mode"
-msgstr ""
+msgstr "60 Hz:n tila"
 
 msgctxt "#30008"
 msgid "Sound Output Sample Rate"
@@ -211,15 +211,15 @@ msgstr ""
 
 msgctxt "#30047"
 msgid "Manual"
-msgstr ""
+msgstr "Manuaalinen"
 
 msgctxt "#30048"
 msgid "Landscape"
-msgstr ""
+msgstr "Vaaka-asento"
 
 msgctxt "#30049"
 msgid "Portrait"
-msgstr ""
+msgstr "Pystyasento"
 
 msgctxt "#30050"
 msgid "Choose the preferred button mapping. 'Auto' adjusts button mapping to match the current display rotation."
@@ -227,7 +227,7 @@ msgstr ""
 
 msgctxt "#30051"
 msgid "Auto"
-msgstr ""
+msgstr "Automaattinen"
 
 msgctxt "#30052"
 msgid "Choose the colorization of WonderSwan (Mono) games. 'WS' palettes mimic the display of the original WonderSwan hardware."
@@ -235,7 +235,7 @@ msgstr ""
 
 msgctxt "#30053"
 msgid "Grayscale"
-msgstr ""
+msgstr "Harmaasävy"
 
 msgctxt "#30054"
 msgid "WS - WonderSwan"
@@ -343,19 +343,19 @@ msgstr ""
 
 msgctxt "#30080"
 msgid "24-bit is slower and not available on all platforms."
-msgstr ""
+msgstr "24-bittinen on hitaampi eikä se ole saatavilla kaikilla alustoilla."
 
 msgctxt "#30081"
 msgid "Thousands (16-bit)"
-msgstr ""
+msgstr "Tuhansissa (16-bit)"
 
 msgctxt "#30082"
 msgid "Millions (24-bit)"
-msgstr ""
+msgstr "Miljoonissa (24-bittinen)"
 
 msgctxt "#30083"
 msgid "Skip frames to avoid audio buffer under-run (crackling). Improves performance at the expense of visual smoothness. 'Auto' skips frames when advised by the frontend. 'Manual' utilizes the 'Frameskip Threshold (%)' setting."
-msgstr ""
+msgstr "Ohita kuvia välttääksesi äänipuskurin ali ajon (säröily). Parantaa suorituskykyä visuaalisen tasaisuuden kustannuksella. \"Automaatti\" ohittaa kehykset käyttöliittymän asetusten mukaan. \"Manuaalinen\" käyttää \"Kuvienohituksen arvo (%)\" -asetusta."
 
 msgctxt "#30084"
 msgid "When 'Frameskip' is set to 'Manual', this specifies the audio buffer occupancy threshold (percentage) below which frames will be skipped. Higher values reduce the risk of crackling by causing frames to be dropped more frequently."

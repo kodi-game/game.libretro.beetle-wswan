@@ -27,39 +27,39 @@ msgstr ""
 
 msgctxt "#30001"
 msgid "Display Rotation"
-msgstr ""
+msgstr "Kijelző elforgatás"
 
 msgctxt "#30002"
 msgid "Rotate Button Mappings"
-msgstr ""
+msgstr "Gombkiosztás elforgatása"
 
 msgctxt "#30003"
 msgid "Color Palette"
-msgstr ""
+msgstr "Színpaletta"
 
 msgctxt "#30004"
 msgid "Color Depth (Restart Required)"
-msgstr ""
+msgstr "Színmélység (újraindítás szükséges)"
 
 msgctxt "#30005"
 msgid "Frameskip"
-msgstr ""
+msgstr "Képkocka kihagyás"
 
 msgctxt "#30006"
 msgid "Frameskip Threshold (%)"
-msgstr ""
+msgstr "Képkocka kihagyás határértéke (%)"
 
 msgctxt "#30007"
 msgid "60Hz Mode"
-msgstr ""
+msgstr "60 Hz-es mód"
 
 msgctxt "#30008"
 msgid "Sound Output Sample Rate"
-msgstr ""
+msgstr "Hangkimenet mintavételi frekvenciája"
 
 msgctxt "#30009"
 msgid "Audio Filter"
-msgstr ""
+msgstr "Hangszűrő"
 
 msgctxt "#30010"
 msgid "Language (Restart Required)"
@@ -207,35 +207,35 @@ msgstr ""
 
 msgctxt "#30046"
 msgid "Choose the orientation of the console screen. 'Portrait' can be used to achieve the correct layout of portrait oriented games on a conventional (landscape) display. 'Manual' enables rotation via the controller (default button: SELECT)."
-msgstr ""
+msgstr "A konzol képernyőjének tájolása. Az Álló móddal érhető el az álló módú játékok helyes tájolása egy hagyományos (fekvő) kijelzőn. A Kézi mód engedélyezi a forgatást a kontrolleren (alapértelmezett gomb: Select)."
 
 msgctxt "#30047"
 msgid "Manual"
-msgstr ""
+msgstr "Kézi"
 
 msgctxt "#30048"
 msgid "Landscape"
-msgstr ""
+msgstr "Fekvő"
 
 msgctxt "#30049"
 msgid "Portrait"
-msgstr ""
+msgstr "Álló"
 
 msgctxt "#30050"
 msgid "Choose the preferred button mapping. 'Auto' adjusts button mapping to match the current display rotation."
-msgstr ""
+msgstr "A kívánt gombkiosztás. Az automatikus a kijelző aktuális elforgatásához igazodik."
 
 msgctxt "#30051"
 msgid "Auto"
-msgstr ""
+msgstr "Automatikus"
 
 msgctxt "#30052"
 msgid "Choose the colorization of WonderSwan (Mono) games. 'WS' palettes mimic the display of the original WonderSwan hardware."
-msgstr ""
+msgstr "A WonderSwan (Mono) játékok színezése. A \"WS\" paletták az eredeti WonderSwan hardver kijelzőjét utánozzák."
 
 msgctxt "#30053"
 msgid "Grayscale"
-msgstr ""
+msgstr "Szürkeárnyalatos"
 
 msgctxt "#30054"
 msgid "WS - WonderSwan"
@@ -343,32 +343,32 @@ msgstr ""
 
 msgctxt "#30080"
 msgid "24-bit is slower and not available on all platforms."
-msgstr ""
+msgstr "A 24 bites lassabb, és nem elérhető minden platformon."
 
 msgctxt "#30081"
 msgid "Thousands (16-bit)"
-msgstr ""
+msgstr "Több ezer (16 bites)"
 
 msgctxt "#30082"
 msgid "Millions (24-bit)"
-msgstr ""
+msgstr "Több millió (24 bites)"
 
 msgctxt "#30083"
 msgid "Skip frames to avoid audio buffer under-run (crackling). Improves performance at the expense of visual smoothness. 'Auto' skips frames when advised by the frontend. 'Manual' utilizes the 'Frameskip Threshold (%)' setting."
-msgstr ""
+msgstr "A hangbuffer kiürülése (recsegés) elkerülésére képkockák eldobása. Javít a teljesítményen a vizuális folyamatosság kárára. Az \"Automatikus\" beállítás akkor dob képkockát, ha a frontend azt javasolja. A \"Kézi\" a \"Képkocka kihagyás határértéke (%)\" beállítást használja."
 
 msgctxt "#30084"
 msgid "When 'Frameskip' is set to 'Manual', this specifies the audio buffer occupancy threshold (percentage) below which frames will be skipped. Higher values reduce the risk of crackling by causing frames to be dropped more frequently."
-msgstr ""
+msgstr "Ha a \"Képkocka kihagyás\" \"Kézi\" értékre van állítva, ez határozza meg a hangpuffer telítettségi határát (százalékban), amely alatt képkockákat dob el. Nagyobb érték csökkenti a recsegés kockázatát azáltal, hogy gyakrabban dob el képkockát."
 
 msgctxt "#30085"
 msgid "Update the display at 60Hz instead of the native 75Hz WonderSwan refresh rate by dropping every fifth frame. Reduces video smoothness, but avoids screen tearing on displays that do not support native operation above 60Hz."
-msgstr ""
+msgstr "A kijelző frissítése 60 Hz-el a WonderSwan eredeti 75 Hz-es gyakorisága helyett, minden ötödik képkocka eldobásával. Csökkenti a kép folyamatosságát, de elkerüli a képszakadást olyan kijelzőkön, amelyek nem támoganak 60 Hz-nél nagyobb frissítést."
 
 msgctxt "#30086"
 msgid "Higher values improve sound quality slightly at the expense of performance."
-msgstr ""
+msgstr "Nagyobb értékek enyhén javítják a hangminőséget a teljesítmény rovására."
 
 msgctxt "#30087"
 msgid "Apply a low pass audio filter to 'soften' the sometimes harsh chiptunes produced by the WonderSwan."
-msgstr ""
+msgstr "Aluláteresztő hangszűrő engedélyezése, a WonderSwan játékok néha \"nyers\" chiptune hangjának tompításához."

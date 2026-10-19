@@ -27,7 +27,7 @@ msgstr "Отдельный порт Mednafen WonderSwan на libretro, кото�
 
 msgctxt "#30001"
 msgid "Display Rotation"
-msgstr "Поворот дисплея"
+msgstr "Вращение экрана"
 
 msgctxt "#30002"
 msgid "Rotate Button Mappings"
@@ -39,7 +39,7 @@ msgstr "Цветовая палитра"
 
 msgctxt "#30004"
 msgid "Color Depth (Restart Required)"
-msgstr "Глубина цвета (требуется перезапуск)"
+msgstr "Глубина цвета (перезапуск)"
 
 msgctxt "#30005"
 msgid "Frameskip"
@@ -47,7 +47,7 @@ msgstr "Пропуск кадров"
 
 msgctxt "#30006"
 msgid "Frameskip Threshold (%)"
-msgstr "Пороговый уровень пропуска кадров (%)"
+msgstr "Граница пропуска кадров (%)"
 
 msgctxt "#30007"
 msgid "60Hz Mode"
@@ -59,7 +59,7 @@ msgstr "Частота дискретизации звукового выход�
 
 msgctxt "#30009"
 msgid "Audio Filter"
-msgstr "Фильтр звука"
+msgstr "Аудиофильтр"
 
 msgctxt "#30010"
 msgid "Language (Restart Required)"
@@ -207,7 +207,7 @@ msgstr "AB"
 
 msgctxt "#30046"
 msgid "Choose the orientation of the console screen. 'Portrait' can be used to achieve the correct layout of portrait oriented games on a conventional (landscape) display. 'Manual' enables rotation via the controller (default button: SELECT)."
-msgstr "Выберите ориентацию экрана консоли. «Портретная» может использоваться для достижения правильной компоновки портретно-ориентированных игр на обычном (альбомном) дисплее. «Вручную» включает поворот с помощью контроллера (кнопка по умолчанию: SELECT)."
+msgstr "Выбор ориентации экрана консоли. 'Портретная' может быть использована для правильного отображения вертикально ориентированных игр в ландшафтном режиме. 'Вручную' активирует вращение с помощью контроллера (кнопка по умолчанию: SELECT)."
 
 msgctxt "#30047"
 msgid "Manual"
@@ -215,7 +215,7 @@ msgstr "Вручную"
 
 msgctxt "#30048"
 msgid "Landscape"
-msgstr "Альбомная"
+msgstr "Ландшафтная"
 
 msgctxt "#30049"
 msgid "Portrait"
@@ -223,7 +223,7 @@ msgstr "Портретная"
 
 msgctxt "#30050"
 msgid "Choose the preferred button mapping. 'Auto' adjusts button mapping to match the current display rotation."
-msgstr "Выберите предпочитаемое сопоставление кнопок. «Авто» подстраивает сопоставление кнопок под текущий поворот дисплея."
+msgstr "Выбор предпочитаемой раскладки кнопок. 'Авто' подстраивает раскладку кнопок согласно текущему повороту экрана."
 
 msgctxt "#30051"
 msgid "Auto"
@@ -347,15 +347,15 @@ msgstr "24 бита медленнее и доступно не на всех п
 
 msgctxt "#30081"
 msgid "Thousands (16-bit)"
-msgstr "Тысячи (16-бит)"
+msgstr "Тысячи (16 бит)"
 
 msgctxt "#30082"
 msgid "Millions (24-bit)"
-msgstr "Миллионы (24-бит)"
+msgstr "Миллионы (24 бита)"
 
 msgctxt "#30083"
 msgid "Skip frames to avoid audio buffer under-run (crackling). Improves performance at the expense of visual smoothness. 'Auto' skips frames when advised by the frontend. 'Manual' utilizes the 'Frameskip Threshold (%)' setting."
-msgstr "Пропускать кадры, чтобы избежать опустошения звукового буфера (треска). Повышает производительность за счёт визуальной плавности. «Авто» пропускает кадры, когда это рекомендует фронтенд. «Вручную» использует настройку «Порог пропуска кадров (%)»."
+msgstr "Пропускать кадры, чтобы избежать опустошения аудиобуфера (треск). Улучшает производительность, но снижает плавность изображения. В режиме 'Авто' пропуск кадров регулируется фронтендом. В режиме 'Вручную' используется настройка 'Граница пропуска кадров (%)'."
 
 msgctxt "#30084"
 msgid "When 'Frameskip' is set to 'Manual', this specifies the audio buffer occupancy threshold (percentage) below which frames will be skipped. Higher values reduce the risk of crackling by causing frames to be dropped more frequently."

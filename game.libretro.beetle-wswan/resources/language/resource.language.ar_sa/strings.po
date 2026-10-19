@@ -59,7 +59,7 @@ msgstr ""
 
 msgctxt "#30009"
 msgid "Audio Filter"
-msgstr ""
+msgstr "تصفية الصوت"
 
 msgctxt "#30010"
 msgid "Language (Restart Required)"
@@ -211,7 +211,7 @@ msgstr ""
 
 msgctxt "#30047"
 msgid "Manual"
-msgstr ""
+msgstr "يدوي"
 
 msgctxt "#30048"
 msgid "Landscape"
@@ -227,7 +227,7 @@ msgstr ""
 
 msgctxt "#30051"
 msgid "Auto"
-msgstr ""
+msgstr "تلقائي"
 
 msgctxt "#30052"
 msgid "Choose the colorization of WonderSwan (Mono) games. 'WS' palettes mimic the display of the original WonderSwan hardware."

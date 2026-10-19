@@ -215,11 +215,11 @@ msgstr ""
 
 msgctxt "#30048"
 msgid "Landscape"
-msgstr ""
+msgstr "Landskap"
 
 msgctxt "#30049"
 msgid "Portrait"
-msgstr ""
+msgstr "Porträtt"
 
 msgctxt "#30050"
 msgid "Choose the preferred button mapping. 'Auto' adjusts button mapping to match the current display rotation."
@@ -227,7 +227,7 @@ msgstr ""
 
 msgctxt "#30051"
 msgid "Auto"
-msgstr ""
+msgstr "Automatiskt"
 
 msgctxt "#30052"
 msgid "Choose the colorization of WonderSwan (Mono) games. 'WS' palettes mimic the display of the original WonderSwan hardware."
@@ -235,7 +235,7 @@ msgstr ""
 
 msgctxt "#30053"
 msgid "Grayscale"
-msgstr ""
+msgstr "Gråskala"
 
 msgctxt "#30054"
 msgid "WS - WonderSwan"
@@ -347,11 +347,11 @@ msgstr ""
 
 msgctxt "#30081"
 msgid "Thousands (16-bit)"
-msgstr ""
+msgstr "Tusentals (16-bitar)"
 
 msgctxt "#30082"
 msgid "Millions (24-bit)"
-msgstr ""
+msgstr "Miljontals (24-bitars)"
 
 msgctxt "#30083"
 msgid "Skip frames to avoid audio buffer under-run (crackling). Improves performance at the expense of visual smoothness. 'Auto' skips frames when advised by the frontend. 'Manual' utilizes the 'Frameskip Threshold (%)' setting."

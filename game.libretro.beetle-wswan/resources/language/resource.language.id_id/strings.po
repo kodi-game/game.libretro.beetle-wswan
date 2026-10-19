@@ -207,7 +207,7 @@ msgstr ""
 
 msgctxt "#30046"
 msgid "Choose the orientation of the console screen. 'Portrait' can be used to achieve the correct layout of portrait oriented games on a conventional (landscape) display. 'Manual' enables rotation via the controller (default button: SELECT)."
-msgstr ""
+msgstr "Pilih orientasi layar konsol. 'Menegak' bisa untuk membetulkan tata letak permainan yang berlayar menegak pada tampilan layar mendatar (landscape). 'Manual' mengakifkan perputaran lewat stik kendali (tombol bawaan: SELECT)."
 
 msgctxt "#30047"
 msgid "Manual"
@@ -215,11 +215,11 @@ msgstr ""
 
 msgctxt "#30048"
 msgid "Landscape"
-msgstr ""
+msgstr "Mendatar"
 
 msgctxt "#30049"
 msgid "Portrait"
-msgstr ""
+msgstr "Menegak"
 
 msgctxt "#30050"
 msgid "Choose the preferred button mapping. 'Auto' adjusts button mapping to match the current display rotation."
@@ -227,7 +227,7 @@ msgstr ""
 
 msgctxt "#30051"
 msgid "Auto"
-msgstr ""
+msgstr "Otomatis"
 
 msgctxt "#30052"
 msgid "Choose the colorization of WonderSwan (Mono) games. 'WS' palettes mimic the display of the original WonderSwan hardware."
@@ -359,7 +359,7 @@ msgstr ""
 
 msgctxt "#30084"
 msgid "When 'Frameskip' is set to 'Manual', this specifies the audio buffer occupancy threshold (percentage) below which frames will be skipped. Higher values reduce the risk of crackling by causing frames to be dropped more frequently."
-msgstr ""
+msgstr "Saat 'Lewati Bingkai' diatur ke 'Manual', (persentase) ambang batas hunian penyangga audio di bawah akan menentukan bingkai mana yang dilewati. Nilai yang lebih tinggi mengurangi risiko keretakan dengan cara membuat laju bingkai sering anjlok."
 
 msgctxt "#30085"
 msgid "Update the display at 60Hz instead of the native 75Hz WonderSwan refresh rate by dropping every fifth frame. Reduces video smoothness, but avoids screen tearing on displays that do not support native operation above 60Hz."

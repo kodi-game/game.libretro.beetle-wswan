@@ -27,7 +27,7 @@ msgstr ""
 
 msgctxt "#30001"
 msgid "Display Rotation"
-msgstr ""
+msgstr "Обертання екрану"
 
 msgctxt "#30002"
 msgid "Rotate Button Mappings"
@@ -35,19 +35,19 @@ msgstr ""
 
 msgctxt "#30003"
 msgid "Color Palette"
-msgstr ""
+msgstr "Кольорова палітра"
 
 msgctxt "#30004"
 msgid "Color Depth (Restart Required)"
-msgstr ""
+msgstr "Глибина кольору (потрібен перезапуск)"
 
 msgctxt "#30005"
 msgid "Frameskip"
-msgstr ""
+msgstr "Пропуск кадру"
 
 msgctxt "#30006"
 msgid "Frameskip Threshold (%)"
-msgstr ""
+msgstr "Межа пропуску кадрів (%)"
 
 msgctxt "#30007"
 msgid "60Hz Mode"
@@ -59,7 +59,7 @@ msgstr ""
 
 msgctxt "#30009"
 msgid "Audio Filter"
-msgstr ""
+msgstr "Аудіофільтр"
 
 msgctxt "#30010"
 msgid "Language (Restart Required)"
@@ -211,7 +211,7 @@ msgstr ""
 
 msgctxt "#30047"
 msgid "Manual"
-msgstr ""
+msgstr "Ручний"
 
 msgctxt "#30048"
 msgid "Landscape"
@@ -227,7 +227,7 @@ msgstr ""
 
 msgctxt "#30051"
 msgid "Auto"
-msgstr ""
+msgstr "Авто"
 
 msgctxt "#30052"
 msgid "Choose the colorization of WonderSwan (Mono) games. 'WS' palettes mimic the display of the original WonderSwan hardware."
@@ -355,7 +355,7 @@ msgstr ""
 
 msgctxt "#30083"
 msgid "Skip frames to avoid audio buffer under-run (crackling). Improves performance at the expense of visual smoothness. 'Auto' skips frames when advised by the frontend. 'Manual' utilizes the 'Frameskip Threshold (%)' setting."
-msgstr ""
+msgstr "Пропускати кадри, щоб уникнути спустошення буферу (тріскіт). Покращує швидкодію, погіршуючи плавність зображення. 'Авто' пропускає кадри, керуючись командами зовнішньої оболонки. 'Ручний' використовує налаштування 'Межа пропуску кадрів (%)'."
 
 msgctxt "#30084"
 msgid "When 'Frameskip' is set to 'Manual', this specifies the audio buffer occupancy threshold (percentage) below which frames will be skipped. Higher values reduce the risk of crackling by causing frames to be dropped more frequently."

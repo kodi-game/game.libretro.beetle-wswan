@@ -27,7 +27,7 @@ msgstr ""
 
 msgctxt "#30001"
 msgid "Display Rotation"
-msgstr ""
+msgstr "چرخش نمایشگر"
 
 msgctxt "#30002"
 msgid "Rotate Button Mappings"
@@ -39,15 +39,15 @@ msgstr ""
 
 msgctxt "#30004"
 msgid "Color Depth (Restart Required)"
-msgstr ""
+msgstr "عمق رنگ (نیازمند بازآغاز)"
 
 msgctxt "#30005"
 msgid "Frameskip"
-msgstr ""
+msgstr "پرش فریم"
 
 msgctxt "#30006"
 msgid "Frameskip Threshold (%)"
-msgstr ""
+msgstr "آستانهٔ پرش فریم (٪)"
 
 msgctxt "#30007"
 msgid "60Hz Mode"
@@ -59,7 +59,7 @@ msgstr ""
 
 msgctxt "#30009"
 msgid "Audio Filter"
-msgstr ""
+msgstr "پالایهٔ صدا"
 
 msgctxt "#30010"
 msgid "Language (Restart Required)"
@@ -211,7 +211,7 @@ msgstr ""
 
 msgctxt "#30047"
 msgid "Manual"
-msgstr ""
+msgstr "دستی"
 
 msgctxt "#30048"
 msgid "Landscape"
@@ -227,7 +227,7 @@ msgstr ""
 
 msgctxt "#30051"
 msgid "Auto"
-msgstr ""
+msgstr "خودکار"
 
 msgctxt "#30052"
 msgid "Choose the colorization of WonderSwan (Mono) games. 'WS' palettes mimic the display of the original WonderSwan hardware."
@@ -347,15 +347,15 @@ msgstr ""
 
 msgctxt "#30081"
 msgid "Thousands (16-bit)"
-msgstr ""
+msgstr "هزار (۱۶-بیتی)"
 
 msgctxt "#30082"
 msgid "Millions (24-bit)"
-msgstr ""
+msgstr "میلیون (۲۴-بیتی)"
 
 msgctxt "#30083"
 msgid "Skip frames to avoid audio buffer under-run (crackling). Improves performance at the expense of visual smoothness. 'Auto' skips frames when advised by the frontend. 'Manual' utilizes the 'Frameskip Threshold (%)' setting."
-msgstr ""
+msgstr "برای جلوگیری از اجرا شدن بافر صوتی (ترق زدن) از فریم‌ها پرش کنید. عملکرد را در ازای صاف‌بودن تصویر بهبود می‌بخشد. حالت «خودکار»هنگام توصیهٔ پیشانه از روی فریم‌ها می‌پرد. حالت «دستی» تنظیم «آستانهٔ پرش فریم (٪)» را فعال می‌کند."
 
 msgctxt "#30084"
 msgid "When 'Frameskip' is set to 'Manual', this specifies the audio buffer occupancy threshold (percentage) below which frames will be skipped. Higher values reduce the risk of crackling by causing frames to be dropped more frequently."

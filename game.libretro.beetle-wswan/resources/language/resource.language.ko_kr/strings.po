@@ -27,27 +27,27 @@ msgstr ""
 
 msgctxt "#30001"
 msgid "Display Rotation"
-msgstr ""
+msgstr "화면 회전"
 
 msgctxt "#30002"
 msgid "Rotate Button Mappings"
-msgstr ""
+msgstr "버튼 매핑 회전"
 
 msgctxt "#30003"
 msgid "Color Palette"
-msgstr ""
+msgstr "색상 팔레트"
 
 msgctxt "#30004"
 msgid "Color Depth (Restart Required)"
-msgstr ""
+msgstr "색 깊이 (재시작 필요)"
 
 msgctxt "#30005"
 msgid "Frameskip"
-msgstr ""
+msgstr "프레임 스킵"
 
 msgctxt "#30006"
 msgid "Frameskip Threshold (%)"
-msgstr ""
+msgstr "프레임 스킵 임계값 (%)"
 
 msgctxt "#30007"
 msgid "60Hz Mode"
@@ -55,11 +55,11 @@ msgstr ""
 
 msgctxt "#30008"
 msgid "Sound Output Sample Rate"
-msgstr "사운드 출력 샘플 레이트"
+msgstr "소리 출력 샘플 레이트"
 
 msgctxt "#30009"
 msgid "Audio Filter"
-msgstr ""
+msgstr "오디오 필터"
 
 msgctxt "#30010"
 msgid "Language (Restart Required)"
@@ -207,35 +207,35 @@ msgstr ""
 
 msgctxt "#30046"
 msgid "Choose the orientation of the console screen. 'Portrait' can be used to achieve the correct layout of portrait oriented games on a conventional (landscape) display. 'Manual' enables rotation via the controller (default button: SELECT)."
-msgstr ""
+msgstr "콘솔 화면의 방향을 선택합니다. '세로'를 선택하면 일반적인(가로) 화면에서 세로 방향을 사용하는 게임을 올바르게 표시할 수 있습니다. '수동'을 선택하면 컨트롤러로 방향을 전환할 수 있습니다(기본 버튼: 선택)."
 
 msgctxt "#30047"
 msgid "Manual"
-msgstr ""
+msgstr "수동"
 
 msgctxt "#30048"
 msgid "Landscape"
-msgstr ""
+msgstr "가로"
 
 msgctxt "#30049"
 msgid "Portrait"
-msgstr ""
+msgstr "세로"
 
 msgctxt "#30050"
 msgid "Choose the preferred button mapping. 'Auto' adjusts button mapping to match the current display rotation."
-msgstr ""
+msgstr "선호하는 버튼 매핑 방식을 선택합니다. '자동' 선택 시 버튼 매핑을 화면 회전 방향에 따라 조정합니다."
 
 msgctxt "#30051"
 msgid "Auto"
-msgstr ""
+msgstr "자동"
 
 msgctxt "#30052"
 msgid "Choose the colorization of WonderSwan (Mono) games. 'WS' palettes mimic the display of the original WonderSwan hardware."
-msgstr ""
+msgstr "WonderSwan(흑백) 게임들의 색상화 방식을 선택합니다. 'WS' 팔레트들은 원본 WonderSwan 하드웨어의 색상을 흉내냅니다."
 
 msgctxt "#30053"
 msgid "Grayscale"
-msgstr ""
+msgstr "흑백"
 
 msgctxt "#30054"
 msgid "WS - WonderSwan"
@@ -263,19 +263,19 @@ msgstr ""
 
 msgctxt "#30060"
 msgid "Blossom Pink"
-msgstr ""
+msgstr "블로섬 핑크"
 
 msgctxt "#30061"
 msgid "Bubbles Blue"
-msgstr ""
+msgstr "버블 블루"
 
 msgctxt "#30062"
 msgid "Buttercup Green"
-msgstr ""
+msgstr "버터컵 그린"
 
 msgctxt "#30063"
 msgid "Digivice"
-msgstr ""
+msgstr "디지바이스"
 
 msgctxt "#30064"
 msgid "Game.com"
@@ -291,23 +291,23 @@ msgstr ""
 
 msgctxt "#30067"
 msgid "Golden Wild"
-msgstr ""
+msgstr "골든 와일드"
 
 msgctxt "#30068"
 msgid "Greenscale"
-msgstr ""
+msgstr "초록 단색"
 
 msgctxt "#30069"
 msgid "Hokage Orange"
-msgstr ""
+msgstr "호카게 오렌지"
 
 msgctxt "#30070"
 msgid "Labo Fawn"
-msgstr ""
+msgstr "라보 황갈색"
 
 msgctxt "#30071"
 msgid "Legendary Super Saiyan"
-msgstr ""
+msgstr "전설의 슈퍼 사이어인"
 
 msgctxt "#30072"
 msgid "Microvision"
@@ -315,19 +315,19 @@ msgstr ""
 
 msgctxt "#30073"
 msgid "Million Live Gold"
-msgstr ""
+msgstr "밀리언 라이브 골드"
 
 msgctxt "#30074"
 msgid "Odyssey Gold"
-msgstr ""
+msgstr "오디세이 골드"
 
 msgctxt "#30075"
 msgid "Shiny Sky Blue"
-msgstr ""
+msgstr "샤이니 스카이 블루"
 
 msgctxt "#30076"
 msgid "Slime Blue"
-msgstr ""
+msgstr "슬라임 블루"
 
 msgctxt "#30077"
 msgid "TI-83"
@@ -335,48 +335,48 @@ msgstr ""
 
 msgctxt "#30078"
 msgid "Travel Wood"
-msgstr ""
+msgstr "낡은 여행 사진"
 
 msgctxt "#30079"
 msgid "Virtual Boy"
-msgstr ""
+msgstr "버추얼 보이"
 
 msgctxt "#30080"
 msgid "24-bit is slower and not available on all platforms."
-msgstr ""
+msgstr "24비트는 느리며 일부 플랫폼에서는 지원되지 않습니다."
 
 msgctxt "#30081"
 msgid "Thousands (16-bit)"
-msgstr ""
+msgstr "수천가지 (16비트)"
 
 msgctxt "#30082"
 msgid "Millions (24-bit)"
-msgstr ""
+msgstr "수백만가지 (24비트)"
 
 msgctxt "#30083"
 msgid "Skip frames to avoid audio buffer under-run (crackling). Improves performance at the expense of visual smoothness. 'Auto' skips frames when advised by the frontend. 'Manual' utilizes the 'Frameskip Threshold (%)' setting."
-msgstr ""
+msgstr "오디오 버퍼 언더런(소리깨짐) 을 줄이기 위해 프레임 건너뛰기를 합니다. 시각적인 부드러움을 포기하는 대신 성능이 향상됩니다. '자동'은 프론트엔드의 추천값으로 실행되고 '사용자 설정'은 '프레임 스킵 임계값(%)' 설정을 이용해 실행됩니다."
 
 msgctxt "#30084"
 msgid "When 'Frameskip' is set to 'Manual', this specifies the audio buffer occupancy threshold (percentage) below which frames will be skipped. Higher values reduce the risk of crackling by causing frames to be dropped more frequently."
-msgstr ""
+msgstr "'프레임 스킵'이 '수동'일 경우 프레임 스킵을 수행할 오디오 버퍼 점유 임계점(퍼센트)을 설정합니다. 값이 높을수록 프레임을 자주 스킵하여 소리 깨짐 현상을 줄일 수 있습니다."
 
 msgctxt "#30085"
 msgid "Update the display at 60Hz instead of the native 75Hz WonderSwan refresh rate by dropping every fifth frame. Reduces video smoothness, but avoids screen tearing on displays that do not support native operation above 60Hz."
-msgstr ""
+msgstr "매 5번째 프레임을 건너뛰어 화면을 WonderSwan의 기본 주사율인 75Hz가 아닌 60Hz로 표시합니다. 영상이 덜 부드럽게 표시되지만, 60Hz 이상의 주사율을 지원하지 않는 디스플레이에서의 화면 티어링 증상을 해결합니다."
 
 msgctxt "#30086"
 msgid "Higher values improve sound quality slightly at the expense of performance."
-msgstr ""
+msgstr "높은 값은 음질을 약간 향상시키지만 높은 성능을 필요로 합니다."
 
 msgctxt "#30087"
 msgid "Apply a low pass audio filter to 'soften' the sometimes harsh chiptunes produced by the WonderSwan."
-msgstr ""
+msgstr "오디오에 로우패스 필터를 적용하여 WonderSwan이 간혹 만들어내는 거친 소리를 부드럽게 변환합니다."
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"
 #~ msgstr "설정"
 
 #~ msgctxt "#30007"
-#~ msgid "Sound Output Sample Rate"
-#~ msgstr "사운드 출력 샘플 레이트"
+#~ msgid "60Hz Mode"
+#~ msgstr "60Hz 모드"

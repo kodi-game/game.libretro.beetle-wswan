@@ -27,7 +27,7 @@ msgstr ""
 
 msgctxt "#30001"
 msgid "Display Rotation"
-msgstr ""
+msgstr "Obrót ekranu"
 
 msgctxt "#30002"
 msgid "Rotate Button Mappings"
@@ -35,7 +35,7 @@ msgstr ""
 
 msgctxt "#30003"
 msgid "Color Palette"
-msgstr ""
+msgstr "Paleta kolorów"
 
 msgctxt "#30004"
 msgid "Color Depth (Restart Required)"
@@ -43,15 +43,15 @@ msgstr ""
 
 msgctxt "#30005"
 msgid "Frameskip"
-msgstr ""
+msgstr "Pomijanie klatek"
 
 msgctxt "#30006"
 msgid "Frameskip Threshold (%)"
-msgstr ""
+msgstr "Próg pominięcia ramki (%)"
 
 msgctxt "#30007"
 msgid "60Hz Mode"
-msgstr ""
+msgstr "Tryb 60Hz"
 
 msgctxt "#30008"
 msgid "Sound Output Sample Rate"
@@ -59,7 +59,7 @@ msgstr ""
 
 msgctxt "#30009"
 msgid "Audio Filter"
-msgstr ""
+msgstr "Filtr audio"
 
 msgctxt "#30010"
 msgid "Language (Restart Required)"
@@ -211,7 +211,7 @@ msgstr ""
 
 msgctxt "#30047"
 msgid "Manual"
-msgstr ""
+msgstr "Ręcznie"
 
 msgctxt "#30048"
 msgid "Landscape"
@@ -235,7 +235,7 @@ msgstr ""
 
 msgctxt "#30053"
 msgid "Grayscale"
-msgstr ""
+msgstr "Odcienie szarości"
 
 msgctxt "#30054"
 msgid "WS - WonderSwan"
@@ -363,7 +363,7 @@ msgstr ""
 
 msgctxt "#30085"
 msgid "Update the display at 60Hz instead of the native 75Hz WonderSwan refresh rate by dropping every fifth frame. Reduces video smoothness, but avoids screen tearing on displays that do not support native operation above 60Hz."
-msgstr ""
+msgstr "Uaktualnij wyświetlacz przy 60Hz zamiast natywnej częstotliwości odświeżania 75Hz WonderSwan poprzez upuszczanie co piątą klatkę. Zmniejsza płynność wideo, ale unika rozrywania ekranu na wyświetlaczach, które nie obsługują pracy natywnej powyżej 60 Hz."
 
 msgctxt "#30086"
 msgid "Higher values improve sound quality slightly at the expense of performance."
@@ -371,4 +371,4 @@ msgstr ""
 
 msgctxt "#30087"
 msgid "Apply a low pass audio filter to 'soften' the sometimes harsh chiptunes produced by the WonderSwan."
-msgstr ""
+msgstr "Zastosuj filtr dźwiękowy o niskim współczynniku przenikania do \"łagodnych\" czasami surowych dźwięków wytwarzanych przez WonderSwan."

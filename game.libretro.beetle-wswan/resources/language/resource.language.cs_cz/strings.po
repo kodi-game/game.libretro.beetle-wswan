@@ -27,39 +27,39 @@ msgstr "Samostatný port Mednafen WonderSwan do libretro, který je sám odvozen
 
 msgctxt "#30001"
 msgid "Display Rotation"
-msgstr "Otočení zobrazení"
+msgstr "Otáčení Displeje"
 
 msgctxt "#30002"
 msgid "Rotate Button Mappings"
-msgstr "Otočit mapování tlačítek"
+msgstr "Mapování Otočných Tlačítek"
 
 msgctxt "#30003"
 msgid "Color Palette"
-msgstr "Barevná paleta"
+msgstr "Paleta Barev"
 
 msgctxt "#30004"
 msgid "Color Depth (Restart Required)"
-msgstr "Barevná hloubka (vyžaduje restart)"
+msgstr "Hloubka Barev (Vyžaduje Restart)"
 
 msgctxt "#30005"
 msgid "Frameskip"
-msgstr "Přeskakování snímků"
+msgstr "Přeskočení Snímku"
 
 msgctxt "#30006"
 msgid "Frameskip Threshold (%)"
-msgstr "Práh přeskakování snímků (%)"
+msgstr "Hraniční Hodnota Přeskočení Snímku (%)"
 
 msgctxt "#30007"
 msgid "60Hz Mode"
-msgstr "Režim 60 Hz"
+msgstr "60Hz režim"
 
 msgctxt "#30008"
 msgid "Sound Output Sample Rate"
-msgstr "Vzorkovací frekvence zvukového výstupu"
+msgstr "Výstupní Zvuková Vzorkovací Frekvence"
 
 msgctxt "#30009"
 msgid "Audio Filter"
-msgstr "Zvukový filtr"
+msgstr "Audio Filtr"
 
 msgctxt "#30010"
 msgid "Language (Restart Required)"
@@ -207,23 +207,23 @@ msgstr "AB"
 
 msgctxt "#30046"
 msgid "Choose the orientation of the console screen. 'Portrait' can be used to achieve the correct layout of portrait oriented games on a conventional (landscape) display. 'Manual' enables rotation via the controller (default button: SELECT)."
-msgstr "Zvolit orientaci obrazovky konzole. „Na výšku“ lze použít ke správnému rozložení her orientovaných na výšku na běžném displeji orientovaném na šířku. „Ručně“ povolí otáčení pomocí ovladače (výchozí tlačítko: SELECT)."
+msgstr "Vyberte orientaci konzole. 'Portrét' lze použít k dosažení správného rozložení her orientovaných na výšku na klasickém displeji (Krajina). 'Ruční' umožňuje otáčení přes ovladač (výchozí tlačítko: SELECT)."
 
 msgctxt "#30047"
 msgid "Manual"
-msgstr "Ručně"
+msgstr "Ruční"
 
 msgctxt "#30048"
 msgid "Landscape"
-msgstr "Na šířku"
+msgstr "Krajina"
 
 msgctxt "#30049"
 msgid "Portrait"
-msgstr "Na výšku"
+msgstr "Portrét"
 
 msgctxt "#30050"
 msgid "Choose the preferred button mapping. 'Auto' adjusts button mapping to match the current display rotation."
-msgstr "Zvolit preferované mapování tlačítek. „Automaticky“ upraví mapování tlačítek podle aktuální rotace zobrazení."
+msgstr "Vyberte preferované mapování tlačítek. 'Auto' upraví mapování tlačítek tak, aby odpovídalo aktuálnímu natočení displeje."
 
 msgctxt "#30051"
 msgid "Auto"
@@ -231,7 +231,7 @@ msgstr "Automaticky"
 
 msgctxt "#30052"
 msgid "Choose the colorization of WonderSwan (Mono) games. 'WS' palettes mimic the display of the original WonderSwan hardware."
-msgstr "Zvolit barevné podání her WonderSwan (Mono). Palety „WS“ napodobují displej původního hardwaru WonderSwan."
+msgstr "Výběr barevného odlišení her WonderSwan (Mono). Palety 'WS' napodobují zobrazení původního hardwaru WonderSwan."
 
 msgctxt "#30053"
 msgid "Grayscale"
@@ -339,36 +339,36 @@ msgstr "Travel Wood"
 
 msgctxt "#30079"
 msgid "Virtual Boy"
-msgstr "Virtual Boy"
+msgstr "Virtuální Chlapec"
 
 msgctxt "#30080"
 msgid "24-bit is slower and not available on all platforms."
-msgstr "24bitové rozlišení je pomalejší a není dostupné na všech platformách."
+msgstr "24 bitů je pomalejších a nejsou k dispozici na všech platformách."
 
 msgctxt "#30081"
 msgid "Thousands (16-bit)"
-msgstr "Tisíce (16bitové)"
+msgstr "Tisíce (16 bitů)"
 
 msgctxt "#30082"
 msgid "Millions (24-bit)"
-msgstr "Miliony (24bitové)"
+msgstr "Miliony (24 bitů)"
 
 msgctxt "#30083"
 msgid "Skip frames to avoid audio buffer under-run (crackling). Improves performance at the expense of visual smoothness. 'Auto' skips frames when advised by the frontend. 'Manual' utilizes the 'Frameskip Threshold (%)' setting."
-msgstr "Přeskakovat snímky, aby nedošlo k podtečení zvukového bufferu (praskání). Zlepšuje výkon za cenu menší plynulosti obrazu. „Automaticky“ přeskakuje snímky na doporučení frontendu. „Ručně“ používá nastavení „Práh přeskakování snímků (%)“."
+msgstr "Přeskočení snímků, aby se zabránilo nedostatečnému využití vyrovnávací paměti zvuku (praskání). Zlepšuje výkon na úkor vizuální plynulosti. Funkce 'Auto' přeskakuje snímky, pokud to doporučí frontend. 'Ruční' využívá nastavení 'Práh přeskakování snímků (%)'."
 
 msgctxt "#30084"
 msgid "When 'Frameskip' is set to 'Manual', this specifies the audio buffer occupancy threshold (percentage) below which frames will be skipped. Higher values reduce the risk of crackling by causing frames to be dropped more frequently."
-msgstr "Je-li „Přeskakování snímků“ nastaveno na „Ručně“, určuje práh obsazení zvukového bufferu (v procentech), pod kterým se budou přeskakovat snímky. Vyšší hodnoty snižují riziko praskání častějším zahazováním snímků."
+msgstr "Pokud je položka 'Přeskočení Snímku' nastavena na hodnotu 'Ruční', určuje práh obsazení vyrovnávací paměti zvuku (v procentech), pod kterým budou snímky přeskočeny. Vyšší hodnoty snižují riziko praskání tím, že způsobují častější vynechávání snímků."
 
 msgctxt "#30085"
 msgid "Update the display at 60Hz instead of the native 75Hz WonderSwan refresh rate by dropping every fifth frame. Reduces video smoothness, but avoids screen tearing on displays that do not support native operation above 60Hz."
-msgstr "Aktualizovat zobrazení na 60 Hz místo nativní obnovovací frekvence WonderSwan 75 Hz vynecháním každého pátého snímku. Snižuje plynulost obrazu, ale zabraňuje trhání obrazu na displejích, které nepodporují nativní provoz nad 60 Hz."
+msgstr "Aktualizujte displej na 60 Hz místo nativní obnovovací frekvence 75 Hz zařízení WonderSwan tak, že budete ignorovat každý pátý snímek. Snižuje plynulost videa, ale zabraňuje trhání na displejích, které nativně nepodporují více než 60 Hz."
 
 msgctxt "#30086"
 msgid "Higher values improve sound quality slightly at the expense of performance."
-msgstr "Vyšší hodnoty mírně zlepšují kvalitu zvuku za cenu vyšších nároků na výkon."
+msgstr "Vyšší hodnoty mírně zlepšují kvalitu zvuku na úkor výkonu."
 
 msgctxt "#30087"
 msgid "Apply a low pass audio filter to 'soften' the sometimes harsh chiptunes produced by the WonderSwan."
-msgstr "Použít dolní propust zvuku ke „změkčení“ někdy ostrých chiptunů vytvářených WonderSwanem."
+msgstr "Použijte zvukový filtr s dolní propustí, abyste \"zjemnili\" někdy ostré chiptuny produkované zařízením WonderSwan."

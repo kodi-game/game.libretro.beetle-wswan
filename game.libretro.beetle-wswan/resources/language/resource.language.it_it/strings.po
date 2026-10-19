@@ -27,19 +27,19 @@ msgstr "Port autonomo di Mednafen WonderSwan su libretro, a sua volta un fork di
 
 msgctxt "#30001"
 msgid "Display Rotation"
-msgstr "Rotazione schermo"
+msgstr "Rotazione Display"
 
 msgctxt "#30002"
 msgid "Rotate Button Mappings"
-msgstr "Mappatura pulsanti di rotazione"
+msgstr "Mapping Pulsante Di Rotazione"
 
 msgctxt "#30003"
 msgid "Color Palette"
-msgstr "Tavolozza colori"
+msgstr "Tavolozza Colore"
 
 msgctxt "#30004"
 msgid "Color Depth (Restart Required)"
-msgstr "Profondità colore (riavvio richiesto)"
+msgstr "Profondità Colore (Riavvio Richiesto)"
 
 msgctxt "#30005"
 msgid "Frameskip"
@@ -47,7 +47,7 @@ msgstr "Salto fotogrammi"
 
 msgctxt "#30006"
 msgid "Frameskip Threshold (%)"
-msgstr "Soglia di salto fotogrammi (%)"
+msgstr "Soglia salto fotogrammi (%)"
 
 msgctxt "#30007"
 msgid "60Hz Mode"
@@ -55,11 +55,11 @@ msgstr "Modalità 60Hz"
 
 msgctxt "#30008"
 msgid "Sound Output Sample Rate"
-msgstr "Frequenza campionamento uscita audio"
+msgstr "Campionatura Uscita Suono"
 
 msgctxt "#30009"
 msgid "Audio Filter"
-msgstr "Filtro audio"
+msgstr "Filtro Audio"
 
 msgctxt "#30010"
 msgid "Language (Restart Required)"
@@ -207,23 +207,23 @@ msgstr ""
 
 msgctxt "#30046"
 msgid "Choose the orientation of the console screen. 'Portrait' can be used to achieve the correct layout of portrait oriented games on a conventional (landscape) display. 'Manual' enables rotation via the controller (default button: SELECT)."
-msgstr ""
+msgstr "Scegli l'orientamento dello schermo della console. 'Portrait' può essere utilizzato per ottenere il corretto layout dei giochi orientati al ritratto su un display convenzionale (orizzontale). 'Manuale' abilita la rotazione tramite il controller (pulsante predefinito: SELECT)."
 
 msgctxt "#30047"
 msgid "Manual"
-msgstr ""
+msgstr "Manuale"
 
 msgctxt "#30048"
 msgid "Landscape"
-msgstr ""
+msgstr "Orizzontale"
 
 msgctxt "#30049"
 msgid "Portrait"
-msgstr ""
+msgstr "Verticale"
 
 msgctxt "#30050"
 msgid "Choose the preferred button mapping. 'Auto' adjusts button mapping to match the current display rotation."
-msgstr ""
+msgstr "Scegli la mappatura dei pulsanti preferiti. 'Auto' regola la mappatura dei pulsanti in base alla rotazione corrente del display."
 
 msgctxt "#30051"
 msgid "Auto"
@@ -231,11 +231,11 @@ msgstr ""
 
 msgctxt "#30052"
 msgid "Choose the colorization of WonderSwan (Mono) games. 'WS' palettes mimic the display of the original WonderSwan hardware."
-msgstr ""
+msgstr "Scegli la colorazione dei giochi WonderSwan (Mono). Le tavolozze 'WS' imitano il display dell'hardware originale WonderSwan."
 
 msgctxt "#30053"
 msgid "Grayscale"
-msgstr ""
+msgstr "Scala di grigi"
 
 msgctxt "#30054"
 msgid "WS - WonderSwan"
@@ -267,11 +267,11 @@ msgstr ""
 
 msgctxt "#30061"
 msgid "Bubbles Blue"
-msgstr ""
+msgstr "Blu Bolle"
 
 msgctxt "#30062"
 msgid "Buttercup Green"
-msgstr ""
+msgstr "Buttercup Verde"
 
 msgctxt "#30063"
 msgid "Digivice"
@@ -307,7 +307,7 @@ msgstr ""
 
 msgctxt "#30071"
 msgid "Legendary Super Saiyan"
-msgstr ""
+msgstr "Super Saiyan Leggendario"
 
 msgctxt "#30072"
 msgid "Microvision"
@@ -343,35 +343,35 @@ msgstr ""
 
 msgctxt "#30080"
 msgid "24-bit is slower and not available on all platforms."
-msgstr ""
+msgstr "24 bit è più lento e non disponibile su tutte le piattaforme."
 
 msgctxt "#30081"
 msgid "Thousands (16-bit)"
-msgstr ""
+msgstr "Migliaia (16-bit)"
 
 msgctxt "#30082"
 msgid "Millions (24-bit)"
-msgstr ""
+msgstr "Milioni (24-bit)"
 
 msgctxt "#30083"
 msgid "Skip frames to avoid audio buffer under-run (crackling). Improves performance at the expense of visual smoothness. 'Auto' skips frames when advised by the frontend. 'Manual' utilizes the 'Frameskip Threshold (%)' setting."
-msgstr ""
+msgstr "Salta i fotogrammi per evitare la sottoesecuzione del buffer audio (crackling). Migliora le prestazioni a scapito della fluidità visiva. 'Auto' salta i quadri quando consigliato dal frontend. 'Manuale' utilizza l'impostazione 'Frameskip Threshold (%)'."
 
 msgctxt "#30084"
 msgid "When 'Frameskip' is set to 'Manual', this specifies the audio buffer occupancy threshold (percentage) below which frames will be skipped. Higher values reduce the risk of crackling by causing frames to be dropped more frequently."
-msgstr ""
+msgstr "Quando 'Frameskip' è impostato a 'Manuale', specifica la soglia di occupazione del buffer audio (percentuale) al di sotto della quale i quadri verranno saltati. Valori più elevati riducono il rischio di rompere causando un calo più frequente dei fotogrammi."
 
 msgctxt "#30085"
 msgid "Update the display at 60Hz instead of the native 75Hz WonderSwan refresh rate by dropping every fifth frame. Reduces video smoothness, but avoids screen tearing on displays that do not support native operation above 60Hz."
-msgstr ""
+msgstr "Aggiornare il display a 60Hz invece della frequenza di aggiornamento nativa di 75Hz WonderSwan cadendo ogni quinto fotogramma. Riduce la fluidità del video, ma evita la lacerazione dello schermo su display che non supportano l'operazione nativa sopra i 60Hz."
 
 msgctxt "#30086"
 msgid "Higher values improve sound quality slightly at the expense of performance."
-msgstr ""
+msgstr "Valori più elevati migliorano leggermente la qualità del suono a scapito delle prestazioni."
 
 msgctxt "#30087"
 msgid "Apply a low pass audio filter to 'soften' the sometimes harsh chiptunes produced by the WonderSwan."
-msgstr ""
+msgstr "Applica un filtro audio passa-basso per ammorbidire i chiptunes talvolta duri prodotti dal WonderSwan."
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"

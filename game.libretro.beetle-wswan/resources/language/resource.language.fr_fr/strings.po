@@ -27,39 +27,39 @@ msgstr ""
 
 msgctxt "#30001"
 msgid "Display Rotation"
-msgstr ""
+msgstr "Rotation d'écran"
 
 msgctxt "#30002"
 msgid "Rotate Button Mappings"
-msgstr ""
+msgstr "Faire pivoter le mappage des touches"
 
 msgctxt "#30003"
 msgid "Color Palette"
-msgstr ""
+msgstr "Palette de couleurs"
 
 msgctxt "#30004"
 msgid "Color Depth (Restart Required)"
-msgstr ""
+msgstr "Profondeur des couleurs (Redémarrage requis)"
 
 msgctxt "#30005"
 msgid "Frameskip"
-msgstr ""
+msgstr "Saut d'images"
 
 msgctxt "#30006"
 msgid "Frameskip Threshold (%)"
-msgstr ""
+msgstr "Seuil de saut d'images (%)"
 
 msgctxt "#30007"
 msgid "60Hz Mode"
-msgstr ""
+msgstr "Mode 60 Hz"
 
 msgctxt "#30008"
 msgid "Sound Output Sample Rate"
-msgstr ""
+msgstr "Fréquence d'échantillonnage de sortie audio"
 
 msgctxt "#30009"
 msgid "Audio Filter"
-msgstr ""
+msgstr "Filtre audio"
 
 msgctxt "#30010"
 msgid "Language (Restart Required)"
@@ -207,15 +207,15 @@ msgstr ""
 
 msgctxt "#30046"
 msgid "Choose the orientation of the console screen. 'Portrait' can be used to achieve the correct layout of portrait oriented games on a conventional (landscape) display. 'Manual' enables rotation via the controller (default button: SELECT)."
-msgstr ""
+msgstr "Choisir l'orientation d'écran de la console. 'Portrait' peut être utilisé pour obtenir la bonne mise en page pour les jeux en mode portrait sur un affichage conventionnel (en mode paysage). 'Manuel' active la rotation via la manette (touche par défaut : SELECT)."
 
 msgctxt "#30047"
 msgid "Manual"
-msgstr ""
+msgstr "Manuelle"
 
 msgctxt "#30048"
 msgid "Landscape"
-msgstr ""
+msgstr "Paysage"
 
 msgctxt "#30049"
 msgid "Portrait"
@@ -223,19 +223,19 @@ msgstr ""
 
 msgctxt "#30050"
 msgid "Choose the preferred button mapping. 'Auto' adjusts button mapping to match the current display rotation."
-msgstr ""
+msgstr "Choisir le mappage des touches préféré. 'Automatiquement' ajuste le mappage des touches pour correspondre à la rotation actuelle de l'affichage."
 
 msgctxt "#30051"
 msgid "Auto"
-msgstr ""
+msgstr "Automatiquement"
 
 msgctxt "#30052"
 msgid "Choose the colorization of WonderSwan (Mono) games. 'WS' palettes mimic the display of the original WonderSwan hardware."
-msgstr ""
+msgstr "Choisir la colorisation des jeux WonderSwan (Mono), les palettes 'WS' imitent l'affichage du matériel original de la WonderSwan."
 
 msgctxt "#30053"
 msgid "Grayscale"
-msgstr ""
+msgstr "Niveaux de gris"
 
 msgctxt "#30054"
 msgid "WS - WonderSwan"
@@ -251,7 +251,7 @@ msgstr ""
 
 msgctxt "#30057"
 msgid "Game Boy DMG"
-msgstr ""
+msgstr "DMG Game Boy"
 
 msgctxt "#30058"
 msgid "Game Boy Pocket"
@@ -263,15 +263,15 @@ msgstr ""
 
 msgctxt "#30060"
 msgid "Blossom Pink"
-msgstr ""
+msgstr "Rose Belle"
 
 msgctxt "#30061"
 msgid "Bubbles Blue"
-msgstr ""
+msgstr "Bleu Bulle"
 
 msgctxt "#30062"
 msgid "Buttercup Green"
-msgstr ""
+msgstr "Vert Rebelle"
 
 msgctxt "#30063"
 msgid "Digivice"
@@ -291,23 +291,23 @@ msgstr ""
 
 msgctxt "#30067"
 msgid "Golden Wild"
-msgstr ""
+msgstr "Doré Wild"
 
 msgctxt "#30068"
 msgid "Greenscale"
-msgstr ""
+msgstr "Niveaux de vert"
 
 msgctxt "#30069"
 msgid "Hokage Orange"
-msgstr ""
+msgstr "Orange Hokage"
 
 msgctxt "#30070"
 msgid "Labo Fawn"
-msgstr ""
+msgstr "Faon Labo"
 
 msgctxt "#30071"
 msgid "Legendary Super Saiyan"
-msgstr ""
+msgstr "Super Saiyan Légendaire"
 
 msgctxt "#30072"
 msgid "Microvision"
@@ -315,19 +315,19 @@ msgstr ""
 
 msgctxt "#30073"
 msgid "Million Live Gold"
-msgstr ""
+msgstr "Or Million Live"
 
 msgctxt "#30074"
 msgid "Odyssey Gold"
-msgstr ""
+msgstr "Or Odyssey"
 
 msgctxt "#30075"
 msgid "Shiny Sky Blue"
-msgstr ""
+msgstr "Bleu Shiny Sky"
 
 msgctxt "#30076"
 msgid "Slime Blue"
-msgstr ""
+msgstr "Bleu Slime"
 
 msgctxt "#30077"
 msgid "TI-83"
@@ -335,7 +335,7 @@ msgstr ""
 
 msgctxt "#30078"
 msgid "Travel Wood"
-msgstr ""
+msgstr "Bois des voyages"
 
 msgctxt "#30079"
 msgid "Virtual Boy"
@@ -343,35 +343,35 @@ msgstr ""
 
 msgctxt "#30080"
 msgid "24-bit is slower and not available on all platforms."
-msgstr ""
+msgstr "24 bits est plus lent et n'est pas disponibles sur toutes les plateformes."
 
 msgctxt "#30081"
 msgid "Thousands (16-bit)"
-msgstr ""
+msgstr "Milliers (16 bits)"
 
 msgctxt "#30082"
 msgid "Millions (24-bit)"
-msgstr ""
+msgstr "Millions (24 bits)"
 
 msgctxt "#30083"
 msgid "Skip frames to avoid audio buffer under-run (crackling). Improves performance at the expense of visual smoothness. 'Auto' skips frames when advised by the frontend. 'Manual' utilizes the 'Frameskip Threshold (%)' setting."
-msgstr ""
+msgstr "Sauter des images pour éviter que le tampon audio ne soit sous-exécuté (crépitements). Améliore les performances au détriment de la fluidité visuelle. 'Auto' saute des images lorsque l'interface le conseille. 'Manuel' utilise le paramètre 'Seuil de saut d'images (%)'."
 
 msgctxt "#30084"
 msgid "When 'Frameskip' is set to 'Manual', this specifies the audio buffer occupancy threshold (percentage) below which frames will be skipped. Higher values reduce the risk of crackling by causing frames to be dropped more frequently."
-msgstr ""
+msgstr "Lorsque 'Saut d'images' est réglé sur 'Manuel', cette option spécifie le seuil d'occupation du tampon audio (pourcentage) en dessous duquel des images seront sautées. Des valeurs plus élevées réduisent le risque de crépitements en faisant sauter des images plus fréquemment."
 
 msgctxt "#30085"
 msgid "Update the display at 60Hz instead of the native 75Hz WonderSwan refresh rate by dropping every fifth frame. Reduces video smoothness, but avoids screen tearing on displays that do not support native operation above 60Hz."
-msgstr ""
+msgstr "Mettre à jour l'affichage à 60 Hz au lieu de la fréquence de rafraîchissement native de la WonderSwan à 75 Hz en ignorant chaque cinquième image. Réduit la fluidité de la vidéo, mais évite les saccades sur les écrans qui ne prennent pas en charge plus de 60 Hz nativement."
 
 msgctxt "#30086"
 msgid "Higher values improve sound quality slightly at the expense of performance."
-msgstr ""
+msgstr "Des valeurs plus élevées améliorent légèrement la qualité sonore au détriment des performances."
 
 msgctxt "#30087"
 msgid "Apply a low pass audio filter to 'soften' the sometimes harsh chiptunes produced by the WonderSwan."
-msgstr ""
+msgstr "Appliquer un filtre audio passe-bas pour 'adoucir' les chiptunes parfois durs produits par la WonderSwan."
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"

@@ -27,27 +27,27 @@ msgstr ""
 
 msgctxt "#30001"
 msgid "Display Rotation"
-msgstr ""
+msgstr "Rotação de tela"
 
 msgctxt "#30002"
 msgid "Rotate Button Mappings"
-msgstr ""
+msgstr "Rotação dos mapeamentos de botão"
 
 msgctxt "#30003"
 msgid "Color Palette"
-msgstr ""
+msgstr "Paleta de cores"
 
 msgctxt "#30004"
 msgid "Color Depth (Restart Required)"
-msgstr ""
+msgstr "Profundidade de cor (requer reinício)"
 
 msgctxt "#30005"
 msgid "Frameskip"
-msgstr ""
+msgstr "Pulo de quadro"
 
 msgctxt "#30006"
 msgid "Frameskip Threshold (%)"
-msgstr ""
+msgstr "Limite de pulo de quadro (%)"
 
 msgctxt "#30007"
 msgid "60Hz Mode"
@@ -55,11 +55,11 @@ msgstr ""
 
 msgctxt "#30008"
 msgid "Sound Output Sample Rate"
-msgstr ""
+msgstr "Taxa de amostragem da saída de som"
 
 msgctxt "#30009"
 msgid "Audio Filter"
-msgstr ""
+msgstr "Filtro de áudio"
 
 msgctxt "#30010"
 msgid "Language (Restart Required)"
@@ -207,7 +207,7 @@ msgstr ""
 
 msgctxt "#30046"
 msgid "Choose the orientation of the console screen. 'Portrait' can be used to achieve the correct layout of portrait oriented games on a conventional (landscape) display. 'Manual' enables rotation via the controller (default button: SELECT)."
-msgstr ""
+msgstr "Seleciona a orientação da tela do console. \"Modo retrato\" pode ser usado para assegurar o layout correto de jogos voltados a modo retrato em uma exibição tradicional (modo paisagem). \"Manual\" ativa a rotação via controle (botão padrão: SELECT)."
 
 msgctxt "#30047"
 msgid "Manual"
@@ -215,39 +215,39 @@ msgstr ""
 
 msgctxt "#30048"
 msgid "Landscape"
-msgstr ""
+msgstr "Modo paisagem"
 
 msgctxt "#30049"
 msgid "Portrait"
-msgstr ""
+msgstr "Modo retrato"
 
 msgctxt "#30050"
 msgid "Choose the preferred button mapping. 'Auto' adjusts button mapping to match the current display rotation."
-msgstr ""
+msgstr "Seleciona o mapeamento de botão desejado. \"Automática\" ajusta o mapeamento de botão para combinar com a rotação da tela atual."
 
 msgctxt "#30051"
 msgid "Auto"
-msgstr ""
+msgstr "Automática"
 
 msgctxt "#30052"
 msgid "Choose the colorization of WonderSwan (Mono) games. 'WS' palettes mimic the display of the original WonderSwan hardware."
-msgstr ""
+msgstr "Seleciona a coloração dos jogos de WonderSwan (Mono). As paletas \"WS\" imitam a exibição do hardware original do WonderSwan."
 
 msgctxt "#30053"
 msgid "Grayscale"
-msgstr ""
+msgstr "Nível de cinza"
 
 msgctxt "#30054"
 msgid "WS - WonderSwan"
-msgstr ""
+msgstr "WS — WonderSwan"
 
 msgctxt "#30055"
 msgid "WS - WonderSwan Color"
-msgstr ""
+msgstr "WS — WonderSwan Color"
 
 msgctxt "#30056"
 msgid "WS - SwanCrystal"
-msgstr ""
+msgstr "WS — SwanCrystal"
 
 msgctxt "#30057"
 msgid "Game Boy DMG"
@@ -263,15 +263,15 @@ msgstr ""
 
 msgctxt "#30060"
 msgid "Blossom Pink"
-msgstr ""
+msgstr "Rosa — Florzinha"
 
 msgctxt "#30061"
 msgid "Bubbles Blue"
-msgstr ""
+msgstr "Azul — Lindinha"
 
 msgctxt "#30062"
 msgid "Buttercup Green"
-msgstr ""
+msgstr "Verde — Docinho"
 
 msgctxt "#30063"
 msgid "Digivice"
@@ -291,23 +291,23 @@ msgstr ""
 
 msgctxt "#30067"
 msgid "Golden Wild"
-msgstr ""
+msgstr "Natureza Dourada"
 
 msgctxt "#30068"
 msgid "Greenscale"
-msgstr ""
+msgstr "Verdejante"
 
 msgctxt "#30069"
 msgid "Hokage Orange"
-msgstr ""
+msgstr "Laranja — Hokage"
 
 msgctxt "#30070"
 msgid "Labo Fawn"
-msgstr ""
+msgstr "Castanho — Labo"
 
 msgctxt "#30071"
 msgid "Legendary Super Saiyan"
-msgstr ""
+msgstr "Lendário Super Saiyajin"
 
 msgctxt "#30072"
 msgid "Microvision"
@@ -315,19 +315,19 @@ msgstr ""
 
 msgctxt "#30073"
 msgid "Million Live Gold"
-msgstr ""
+msgstr "Dourado — Million Live"
 
 msgctxt "#30074"
 msgid "Odyssey Gold"
-msgstr ""
+msgstr "Dourado — Odyssey"
 
 msgctxt "#30075"
 msgid "Shiny Sky Blue"
-msgstr ""
+msgstr "Azul — Shiny Sky"
 
 msgctxt "#30076"
 msgid "Slime Blue"
-msgstr ""
+msgstr "Azul — Slime"
 
 msgctxt "#30077"
 msgid "TI-83"
@@ -335,7 +335,7 @@ msgstr ""
 
 msgctxt "#30078"
 msgid "Travel Wood"
-msgstr ""
+msgstr "Madeira — Fotos de Viagem"
 
 msgctxt "#30079"
 msgid "Virtual Boy"
@@ -343,23 +343,23 @@ msgstr ""
 
 msgctxt "#30080"
 msgid "24-bit is slower and not available on all platforms."
-msgstr ""
+msgstr "24 bits é mais lento e não está disponível em todas as plataformas."
 
 msgctxt "#30081"
 msgid "Thousands (16-bit)"
-msgstr ""
+msgstr "Milhares (16 bits)"
 
 msgctxt "#30082"
 msgid "Millions (24-bit)"
-msgstr ""
+msgstr "Milhões (24 bits)"
 
 msgctxt "#30083"
 msgid "Skip frames to avoid audio buffer under-run (crackling). Improves performance at the expense of visual smoothness. 'Auto' skips frames when advised by the frontend. 'Manual' utilizes the 'Frameskip Threshold (%)' setting."
-msgstr ""
+msgstr "Ignora quadros para evitar o esvaziamento do buffer do áudio (pipocos no áudio). Melhora o desempenho ao custo da suavidade visual. A opção 'Auto' ignora os quadros quando for aconselhado pela interface. Já 'Manual' utiliza a configuração 'Limite do salto de quadros (%)'."
 
 msgctxt "#30084"
 msgid "When 'Frameskip' is set to 'Manual', this specifies the audio buffer occupancy threshold (percentage) below which frames will be skipped. Higher values reduce the risk of crackling by causing frames to be dropped more frequently."
-msgstr ""
+msgstr "Ao configurar \"Pulo de quadro\" como \"Manual\", especifica o limite do buffer de áudio em porcentagem, os quadros fora da porcentagem serão ignorados. Valores maiores reduzem o risco de engasgo por descartar quadros com mais frequência."
 
 msgctxt "#30085"
 msgid "Update the display at 60Hz instead of the native 75Hz WonderSwan refresh rate by dropping every fifth frame. Reduces video smoothness, but avoids screen tearing on displays that do not support native operation above 60Hz."
@@ -367,7 +367,7 @@ msgstr ""
 
 msgctxt "#30086"
 msgid "Higher values improve sound quality slightly at the expense of performance."
-msgstr ""
+msgstr "Valores maiores melhoram ligeiramente a qualidade do som em detrimento do desempenho."
 
 msgctxt "#30087"
 msgid "Apply a low pass audio filter to 'soften' the sometimes harsh chiptunes produced by the WonderSwan."

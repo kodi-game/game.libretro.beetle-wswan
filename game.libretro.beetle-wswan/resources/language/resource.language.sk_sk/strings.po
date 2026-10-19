@@ -27,7 +27,7 @@ msgstr ""
 
 msgctxt "#30001"
 msgid "Display Rotation"
-msgstr ""
+msgstr "Rotácia displeja"
 
 msgctxt "#30002"
 msgid "Rotate Button Mappings"
@@ -35,7 +35,7 @@ msgstr ""
 
 msgctxt "#30003"
 msgid "Color Palette"
-msgstr ""
+msgstr "Farebná paleta"
 
 msgctxt "#30004"
 msgid "Color Depth (Restart Required)"
@@ -43,15 +43,15 @@ msgstr ""
 
 msgctxt "#30005"
 msgid "Frameskip"
-msgstr ""
+msgstr "Preskočenie snímky"
 
 msgctxt "#30006"
 msgid "Frameskip Threshold (%)"
-msgstr ""
+msgstr "Prah preskočenia snímky (%)"
 
 msgctxt "#30007"
 msgid "60Hz Mode"
-msgstr ""
+msgstr "60 Hz režim"
 
 msgctxt "#30008"
 msgid "Sound Output Sample Rate"
@@ -59,7 +59,7 @@ msgstr ""
 
 msgctxt "#30009"
 msgid "Audio Filter"
-msgstr ""
+msgstr "Zvukový filter"
 
 msgctxt "#30010"
 msgid "Language (Restart Required)"
@@ -211,15 +211,15 @@ msgstr ""
 
 msgctxt "#30047"
 msgid "Manual"
-msgstr ""
+msgstr "Ručne"
 
 msgctxt "#30048"
 msgid "Landscape"
-msgstr ""
+msgstr "Na šírku"
 
 msgctxt "#30049"
 msgid "Portrait"
-msgstr ""
+msgstr "Portrét"
 
 msgctxt "#30050"
 msgid "Choose the preferred button mapping. 'Auto' adjusts button mapping to match the current display rotation."
@@ -235,7 +235,7 @@ msgstr ""
 
 msgctxt "#30053"
 msgid "Grayscale"
-msgstr ""
+msgstr "Odtiene šedej"
 
 msgctxt "#30054"
 msgid "WS - WonderSwan"
@@ -295,7 +295,7 @@ msgstr ""
 
 msgctxt "#30068"
 msgid "Greenscale"
-msgstr ""
+msgstr "Odtiene zelenej"
 
 msgctxt "#30069"
 msgid "Hokage Orange"
@@ -347,11 +347,11 @@ msgstr ""
 
 msgctxt "#30081"
 msgid "Thousands (16-bit)"
-msgstr ""
+msgstr "Tisíce (16-bit)"
 
 msgctxt "#30082"
 msgid "Millions (24-bit)"
-msgstr ""
+msgstr "Milióny (24-bit)"
 
 msgctxt "#30083"
 msgid "Skip frames to avoid audio buffer under-run (crackling). Improves performance at the expense of visual smoothness. 'Auto' skips frames when advised by the frontend. 'Manual' utilizes the 'Frameskip Threshold (%)' setting."

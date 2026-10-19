@@ -27,39 +27,39 @@ msgstr ""
 
 msgctxt "#30001"
 msgid "Display Rotation"
-msgstr ""
+msgstr "螢幕旋轉"
 
 msgctxt "#30002"
 msgid "Rotate Button Mappings"
-msgstr ""
+msgstr "按鍵映射"
 
 msgctxt "#30003"
 msgid "Color Palette"
-msgstr ""
+msgstr "影像配色"
 
 msgctxt "#30004"
 msgid "Color Depth (Restart Required)"
-msgstr ""
+msgstr "色彩深度 (需要重新啟動)"
 
 msgctxt "#30005"
 msgid "Frameskip"
-msgstr ""
+msgstr "跳幀"
 
 msgctxt "#30006"
 msgid "Frameskip Threshold (%)"
-msgstr ""
+msgstr "跳幀上限 (%)"
 
 msgctxt "#30007"
 msgid "60Hz Mode"
-msgstr ""
+msgstr "60Hz模式"
 
 msgctxt "#30008"
 msgid "Sound Output Sample Rate"
-msgstr ""
+msgstr "音訊輸出取樣率"
 
 msgctxt "#30009"
 msgid "Audio Filter"
-msgstr ""
+msgstr "音訊濾波器"
 
 msgctxt "#30010"
 msgid "Language (Restart Required)"
@@ -207,168 +207,174 @@ msgstr ""
 
 msgctxt "#30046"
 msgid "Choose the orientation of the console screen. 'Portrait' can be used to achieve the correct layout of portrait oriented games on a conventional (landscape) display. 'Manual' enables rotation via the controller (default button: SELECT)."
-msgstr ""
+msgstr "設定螢幕旋轉方向, 設定<直向>可用於橫式顯示器並正確旋轉角度, 設定<手動>可用「控制器」按鍵隨時切換方向。"
 
 msgctxt "#30047"
 msgid "Manual"
-msgstr ""
+msgstr "手動"
 
 msgctxt "#30048"
 msgid "Landscape"
-msgstr ""
+msgstr "橫向"
 
 msgctxt "#30049"
 msgid "Portrait"
-msgstr ""
+msgstr "直向"
 
 msgctxt "#30050"
 msgid "Choose the preferred button mapping. 'Auto' adjusts button mapping to match the current display rotation."
-msgstr ""
+msgstr "設定按鍵映射方向, 設定<自動>時依畫面的方向自動調整按鍵映射。"
 
 msgctxt "#30051"
 msgid "Auto"
-msgstr ""
+msgstr "自動"
 
 msgctxt "#30052"
 msgid "Choose the colorization of WonderSwan (Mono) games. 'WS' palettes mimic the display of the original WonderSwan hardware."
-msgstr ""
+msgstr "設定WonderSwan主機單色遊戲的著色模式, 選項WS類別為WonderSwan主機的擬真顯示。"
 
 msgctxt "#30053"
 msgid "Grayscale"
-msgstr ""
+msgstr "灰階"
 
 msgctxt "#30054"
 msgid "WS - WonderSwan"
-msgstr ""
+msgstr "WS - WonderSwan 主機"
 
 msgctxt "#30055"
 msgid "WS - WonderSwan Color"
-msgstr ""
+msgstr "WS - WonderSwan Color 主機"
 
 msgctxt "#30056"
 msgid "WS - SwanCrystal"
-msgstr ""
+msgstr "WS - SwanCrystal 主機"
 
 msgctxt "#30057"
 msgid "Game Boy DMG"
-msgstr ""
+msgstr "Game Boy 主機"
 
 msgctxt "#30058"
 msgid "Game Boy Pocket"
-msgstr ""
+msgstr "Game Boy Pocket 主機"
 
 msgctxt "#30059"
 msgid "Game Boy Light"
-msgstr ""
+msgstr "Game Boy Light 主機"
 
 msgctxt "#30060"
 msgid "Blossom Pink"
-msgstr ""
+msgstr "飛天小女警花花粉"
 
 msgctxt "#30061"
 msgid "Bubbles Blue"
-msgstr ""
+msgstr "飛天小女警泡泡藍"
 
 msgctxt "#30062"
 msgid "Buttercup Green"
-msgstr ""
+msgstr "飛天小女警毛毛綠"
 
 msgctxt "#30063"
 msgid "Digivice"
-msgstr ""
+msgstr "怪獸對打機D2"
 
 msgctxt "#30064"
 msgid "Game.com"
-msgstr ""
+msgstr "Game.com 主機"
 
 msgctxt "#30065"
 msgid "GameKing"
-msgstr ""
+msgstr "GameKing 主機"
 
 msgctxt "#30066"
 msgid "Game Master"
-msgstr ""
+msgstr "Game Master 主機"
 
 msgctxt "#30067"
 msgid "Golden Wild"
-msgstr ""
+msgstr "曠野金"
 
 msgctxt "#30068"
 msgid "Greenscale"
-msgstr ""
+msgstr "綠色階"
 
 msgctxt "#30069"
 msgid "Hokage Orange"
-msgstr ""
+msgstr "火影橘"
 
 msgctxt "#30070"
 msgid "Labo Fawn"
-msgstr ""
+msgstr "瓦楞棕"
 
 msgctxt "#30071"
 msgid "Legendary Super Saiyan"
-msgstr ""
+msgstr "傳說中的超級賽亞人 (綠光)"
 
 msgctxt "#30072"
 msgid "Microvision"
-msgstr ""
+msgstr "Microvision 主機"
 
 msgctxt "#30073"
 msgid "Million Live Gold"
-msgstr ""
+msgstr "偶像大師百萬人演唱會 (金色)"
 
 msgctxt "#30074"
 msgid "Odyssey Gold"
-msgstr ""
+msgstr "奧德賽金幣 (金黃)"
 
 msgctxt "#30075"
 msgid "Shiny Sky Blue"
-msgstr ""
+msgstr "閃亮藍"
 
 msgctxt "#30076"
 msgid "Slime Blue"
-msgstr ""
+msgstr "史萊姆藍"
 
 msgctxt "#30077"
 msgid "TI-83"
-msgstr ""
+msgstr "TI-83 工程計算機"
 
 msgctxt "#30078"
 msgid "Travel Wood"
-msgstr ""
+msgstr "織夢島DX旅照模式 (粉撲色)"
 
 msgctxt "#30079"
 msgid "Virtual Boy"
-msgstr ""
+msgstr "Virtual Boy 主機 (紅黑)"
 
 msgctxt "#30080"
 msgid "24-bit is slower and not available on all platforms."
-msgstr ""
+msgstr "全彩(24位元)影響效能且不是所有平台都支援。"
 
 msgctxt "#30081"
 msgid "Thousands (16-bit)"
-msgstr ""
+msgstr "高彩 (16位元)"
 
 msgctxt "#30082"
 msgid "Millions (24-bit)"
-msgstr ""
+msgstr "全彩 (24位元)"
 
 msgctxt "#30083"
 msgid "Skip frames to avoid audio buffer under-run (crackling). Improves performance at the expense of visual smoothness. 'Auto' skips frames when advised by the frontend. 'Manual' utilizes the 'Frameskip Threshold (%)' setting."
 msgstr ""
+"設定跳幀用以避免音訊緩衝區不足(產生破音), 用影像流暢度為代價提高效能。\n"
+"設定<自動>由前端系統控制跳幀, 設定<手動>由「跳幀上限(%)」控制跳幀。"
 
 msgctxt "#30084"
 msgid "When 'Frameskip' is set to 'Manual', this specifies the audio buffer occupancy threshold (percentage) below which frames will be skipped. Higher values reduce the risk of crackling by causing frames to be dropped more frequently."
 msgstr ""
+"設定「跳幀」為<手動>時音頻緩衝區使用上限(%)。\n"
+"低於上限的影格將被跳過, 設定過高會導致頻繁丟失影格, 過低則是出現破音。"
 
 msgctxt "#30085"
 msgid "Update the display at 60Hz instead of the native 75Hz WonderSwan refresh rate by dropping every fifth frame. Reduces video smoothness, but avoids screen tearing on displays that do not support native operation above 60Hz."
 msgstr ""
+"不使用WonderSwan預設的75Hz更新率, 使用60Hz更新率模式, 更新率每五幀下降一次。\n"
+"適用於不支援60Hz以上的裝置, 降低影像流暢度避免出現畫面撕裂。"
 
 msgctxt "#30086"
 msgid "Higher values improve sound quality slightly at the expense of performance."
-msgstr ""
+msgstr "較高的值會些許提高音質但會降低效能。"
 
 msgctxt "#30087"
 msgid "Apply a low pass audio filter to 'soften' the sometimes harsh chiptunes produced by the WonderSwan."
-msgstr ""
+msgstr "WonderSwan音樂晶片有時會產生刺耳聲, 使用低通音訊濾波器進行柔和處理。"

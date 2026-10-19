@@ -27,11 +27,11 @@ msgstr "Eigenständige Portierung von Mednafen WonderSwan nach libretro, selbst 
 
 msgctxt "#30001"
 msgid "Display Rotation"
-msgstr "Bildschirmdrehung"
+msgstr "Bildschirmausrichtung"
 
 msgctxt "#30002"
 msgid "Rotate Button Mappings"
-msgstr ""
+msgstr "Tastenzuordnungen rotieren"
 
 msgctxt "#30003"
 msgid "Color Palette"
@@ -47,15 +47,15 @@ msgstr "Frameskip"
 
 msgctxt "#30006"
 msgid "Frameskip Threshold (%)"
-msgstr "Frameskip-Schwellenwert (%)"
+msgstr "Frameskip Grenzwert (%)"
 
 msgctxt "#30007"
 msgid "60Hz Mode"
-msgstr "60-Hz-Modus"
+msgstr "60Hz Modus"
 
 msgctxt "#30008"
 msgid "Sound Output Sample Rate"
-msgstr "Samplingrate für Soundausgabe"
+msgstr "Audioausgabe-Abtastrate"
 
 msgctxt "#30009"
 msgid "Audio Filter"
@@ -207,35 +207,35 @@ msgstr ""
 
 msgctxt "#30046"
 msgid "Choose the orientation of the console screen. 'Portrait' can be used to achieve the correct layout of portrait oriented games on a conventional (landscape) display. 'Manual' enables rotation via the controller (default button: SELECT)."
-msgstr ""
+msgstr "Die Ausrichtung des Konsolenbildschirms auswählen. \"Hochformat\" kann verwendet werden, um das korrekte Layout von Hochformat-orientierten Spielen auf einer herkömmlichen (Querformats-) Anzeige zu erreichen. \"Manuel\" ermöglicht die Rotation über den Controller (Standard-Taste: SELECT)."
 
 msgctxt "#30047"
 msgid "Manual"
-msgstr ""
+msgstr "Manuell"
 
 msgctxt "#30048"
 msgid "Landscape"
-msgstr ""
+msgstr "Querformat"
 
 msgctxt "#30049"
 msgid "Portrait"
-msgstr ""
+msgstr "Hochformat"
 
 msgctxt "#30050"
 msgid "Choose the preferred button mapping. 'Auto' adjusts button mapping to match the current display rotation."
-msgstr ""
+msgstr "Bevorzugte Tastenzuordnung wählen. \"Automatisch\" passt die Tastenzuordnung an die aktuelle Bildschirmausrichtung an."
 
 msgctxt "#30051"
 msgid "Auto"
-msgstr ""
+msgstr "Automatisch"
 
 msgctxt "#30052"
 msgid "Choose the colorization of WonderSwan (Mono) games. 'WS' palettes mimic the display of the original WonderSwan hardware."
-msgstr ""
+msgstr "Farbgebung von WonderSwan (Mono) Spielen wählen. \"WS\"-Paletten immitieren die original WonderSwan-Hardware."
 
 msgctxt "#30053"
 msgid "Grayscale"
-msgstr ""
+msgstr "Graustufen"
 
 msgctxt "#30054"
 msgid "WS - WonderSwan"
@@ -251,7 +251,7 @@ msgstr ""
 
 msgctxt "#30057"
 msgid "Game Boy DMG"
-msgstr ""
+msgstr "Game Boy original"
 
 msgctxt "#30058"
 msgid "Game Boy Pocket"
@@ -263,15 +263,15 @@ msgstr ""
 
 msgctxt "#30060"
 msgid "Blossom Pink"
-msgstr ""
+msgstr "Blossom-Rosa"
 
 msgctxt "#30061"
 msgid "Bubbles Blue"
-msgstr ""
+msgstr "Bubbles-Blau"
 
 msgctxt "#30062"
 msgid "Buttercup Green"
-msgstr ""
+msgstr "Buttercup-Grün"
 
 msgctxt "#30063"
 msgid "Digivice"
@@ -295,19 +295,19 @@ msgstr ""
 
 msgctxt "#30068"
 msgid "Greenscale"
-msgstr ""
+msgstr "Grüne Farbgebung"
 
 msgctxt "#30069"
 msgid "Hokage Orange"
-msgstr ""
+msgstr "Hokage-Orange"
 
 msgctxt "#30070"
 msgid "Labo Fawn"
-msgstr ""
+msgstr "Labo-Kitz"
 
 msgctxt "#30071"
 msgid "Legendary Super Saiyan"
-msgstr ""
+msgstr "Legendärer Super-Saiyajin"
 
 msgctxt "#30072"
 msgid "Microvision"
@@ -315,19 +315,19 @@ msgstr ""
 
 msgctxt "#30073"
 msgid "Million Live Gold"
-msgstr ""
+msgstr "Million-Live-Gold"
 
 msgctxt "#30074"
 msgid "Odyssey Gold"
-msgstr ""
+msgstr "Odyssey-Gold"
 
 msgctxt "#30075"
 msgid "Shiny Sky Blue"
-msgstr ""
+msgstr "Shiny-Sky-Blau"
 
 msgctxt "#30076"
 msgid "Slime Blue"
-msgstr ""
+msgstr "Schleim-Blau"
 
 msgctxt "#30077"
 msgid "TI-83"
@@ -335,7 +335,7 @@ msgstr ""
 
 msgctxt "#30078"
 msgid "Travel Wood"
-msgstr ""
+msgstr "Reiseholz"
 
 msgctxt "#30079"
 msgid "Virtual Boy"
@@ -343,35 +343,35 @@ msgstr ""
 
 msgctxt "#30080"
 msgid "24-bit is slower and not available on all platforms."
-msgstr ""
+msgstr "24 Bit ist langsamer und nicht auf allen Plattformen verfügbar."
 
 msgctxt "#30081"
 msgid "Thousands (16-bit)"
-msgstr ""
+msgstr "Tausende (16 Bit)"
 
 msgctxt "#30082"
 msgid "Millions (24-bit)"
-msgstr ""
+msgstr "Millionen (24 Bit)"
 
 msgctxt "#30083"
 msgid "Skip frames to avoid audio buffer under-run (crackling). Improves performance at the expense of visual smoothness. 'Auto' skips frames when advised by the frontend. 'Manual' utilizes the 'Frameskip Threshold (%)' setting."
-msgstr ""
+msgstr "Frames überspringen, um ein Unterlaufen des Audiopuffers (Knistern) zu vermeiden. Verbessert die Leistung auf Kosten der visuellen Glätte. 'Auto' überspringt Frames, wenn vom Frontend empfohlen. 'Manual' verwendet die Einstellung 'Frameskip Grenzwert (%)'."
 
 msgctxt "#30084"
 msgid "When 'Frameskip' is set to 'Manual', this specifies the audio buffer occupancy threshold (percentage) below which frames will be skipped. Higher values reduce the risk of crackling by causing frames to be dropped more frequently."
-msgstr ""
+msgstr "Gibt den Audiopuffer-Belegungsschwellenwert (Prozent) an, unter dem Frames übersprungen werden, wenn \"Frameskip\" auf \"Manuell\" eingestellt ist. Höhere Werte verringern das Risiko von Knistern, da Frames häufiger weggelassen werden."
 
 msgctxt "#30085"
 msgid "Update the display at 60Hz instead of the native 75Hz WonderSwan refresh rate by dropping every fifth frame. Reduces video smoothness, but avoids screen tearing on displays that do not support native operation above 60Hz."
-msgstr ""
+msgstr "Aktualisiert die Anzeige um 60Hz anstelle der nativen 75Hz WonderSwan Aktualisierungsrate, während jedes fünfte Frame verworfen wird. Reduziert die Videoglättung, aber vermeidet Tearing bei Bildschirmen, die den nativen Betrieb über 60Hz nicht unterstützen."
 
 msgctxt "#30086"
 msgid "Higher values improve sound quality slightly at the expense of performance."
-msgstr ""
+msgstr "Höhere Werte verbessern die Klangqualität leicht auf Kosten der Leistung."
 
 msgctxt "#30087"
 msgid "Apply a low pass audio filter to 'soften' the sometimes harsh chiptunes produced by the WonderSwan."
-msgstr ""
+msgstr "Fügt einen Tiefpass-Audiofilter hinzu, um die manchmal harten Chiptunes des WonderSwan zu 'weichen'."
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"
